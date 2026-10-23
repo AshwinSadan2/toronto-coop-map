@@ -4,7 +4,9 @@ The spec is `plan.md` (diagram: `diagram.html`). The design interview is finishe
 
 ## Folders
 - `sources/` — original source files (the OCA PDF)
-- `data/seed/` — hand-checked starting lists (committed)
+- `data/seed/` — hand-checked lists (committed): PDF list, keep/leave-off decision per national-map co-op, hand-entered locations
+- `data/build/` — combined output: `coops.csv` (kept) and `left_off.csv` (with reasons)
+- `data/local/` — downloaded source copies (not committed)
 - `builder/` — Python scripts that build the list (run with `.venv/bin/python`)
 - `logs/run.log` — plain-English log of every run (not committed)
 - `site/` — the public website (to come)
@@ -19,7 +21,7 @@ The spec is `plan.md` (diagram: `diagram.html`). The design interview is finishe
 
 ## Milestones
 1. [x] Project setup + starting list from the PDF
-2. [ ] Add co-ops from extra sources + expand chains into branches
+2. [~] Add co-ops from extra sources (done: `builder/pull_sources.py` -> `data/build/`) + expand chains into branches (to do via Google: Home Hardware, Carpet One, Co-operators, ClimateCare)
 3. [ ] Look up addresses/hours (Google, OpenStreetMap fallback)
 4. [ ] Notion database + preview/approve write
 5. [ ] Website (map, search, cards)

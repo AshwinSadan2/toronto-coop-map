@@ -112,7 +112,8 @@ See `diagram.html` for the visual flow.
 ## Open Questions
 - **Chains may dominate the map.** With every branch included, the count may go well past 100 and chain pins may bury local gems like Karma Co-op and The Big Carrot. Revisit after seeing the map; a "hide chains" filter is an easy fix.
 - **Google storage rules.** Google limits how long some of its details (especially photos and ratings) can be stored in your own database. Check the current terms during the build; worst case, photos/ratings become a "See on Google Maps" link.
-- **Co-operatives & Mutuals Canada map:** confirm the data can actually be pulled out; if not, fall back to the OCA member directory and Google Maps searches.
+- ~~**Co-operatives & Mutuals Canada map:** confirm the data can actually be pulled out.~~ Resolved 2026-10-23: the full list (with addresses and map positions) downloads cleanly; it was the biggest source by far.
+- **Childcare co-ops (19):** included as everyday (parents can book). Easy to hide with a filter if they crowd the map.
 - **Search by neighbourhood:** decide whether neighbourhoods come from addresses automatically or are tagged by hand.
 - **Housing co-ops:** left out for now (not shops); could become an optional map layer later.
 - **Mobile:** nice-to-have for Phase 1; confirm how much phone polish is wanted before sharing the link.
