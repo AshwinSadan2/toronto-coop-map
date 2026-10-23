@@ -1,0 +1,42 @@
+name,category,description,pdf_location,website,audience,reason,status,leave_off_reason,chain,notes
+Neill-Wycik Co-operative College,Accommodations,Student housing & hotel,"Toronto, ON",https://neill-wycik.coop/,everyday,Runs a summer hotel anyone can book,keep,,no,
+Campus Co-op Residences,Accommodations,Student housing,"Toronto, ON",https://campus.coop/,niche,Housing for members only; not a shop,left_off,Housing co-op (out of scope for now),no,Possible future housing layer
+Co-operative Housing Federation of Canada,Accommodations,Co-operative housing association,Canada-wide,https://chfcanada.coop/about-co-op-housing/find-a-co-op/,niche,Association for housing co-ops,left_off,Housing co-op (out of scope for now),no,Possible future housing layer
+Contemporary Textile Studio Co-op,Arts & Culture,Design studio for textile artists,"Toronto, ON",https://www.textilestudio.ca/,everyday,Public studio shop and classes,keep,,no,CHECK: confirm shop/classes are open to the public
+The Red Head Gallery,Arts & Culture,Art gallery,"Toronto, ON",https://www.redheadgallery.org/,everyday,Public art gallery anyone can visit,keep,,no,
+Dream Bike Game Co-operative,Arts & Culture,Video game developers,"Toronto, ON",https://dreambike.coop/,niche,Game studio; no public location,left_off,Niche (no public storefront),no,
+Evolutionary Music Co-operative,Arts & Culture,Music and media production and promotion,"Toronto, ON",https://www.facebook.com/evolutionarymusiccooperative/,niche,Serves musicians; no public location,left_off,Niche (no public storefront),no,
+Black Women Professional Co-operative,Consulting & Support,Support for women professionals and entrepreneurs,"GTA, ON",https://bwpcoop.com/,niche,Business support for members,left_off,Niche (business services),no,
+CoAction Staff Association,Consulting & Support,Represents staff of housing co-ops,"Toronto, ON",http://coactionsa.ca/,niche,Staff association,left_off,Niche (business services),no,
+Confluvium,Consulting & Support,Watershed markers & mappers,"Toronto, ON",https://confluvium.ca/,niche,Consulting,left_off,Niche (business services),no,
+People Design Co-op,Consulting & Support,Architectural designer,"Toronto, ON",https://www.peoplecooperative.com/,niche,Design consulting; no walk-in location,left_off,Niche (business services),no,
+Transform Practice,Consulting & Support,Consulting and facilitation,"Toronto, ON",https://transformpractice.ca/,niche,Consulting,left_off,Niche (business services),no,
+Whole Woman Network,Consulting & Support,Training & coaching,"Toronto, ON",https://wholewomannetwork.com/,niche,Consulting,left_off,Niche (business services),no,
+Sustainability Solutions Group,Consulting & Support,Climate consultants,"Toronto, ON",https://www.ssg.coop/,niche,Consulting,left_off,Niche (business services),no,
+Co-operators,Financial & Insurance,"Home, auto, life & travel insurance",Canada-wide,https://www.cooperators.ca/en/,everyday,Insurance offices anyone can walk into,keep,,yes,Find every Toronto office
+Desjardins,Financial & Insurance,Insurance and financial services,Canada-wide,https://www.desjardins.com/qc/en.html,everyday,Insurance/financial offices open to the public,keep,,yes,Find every Toronto office
+Credit Unions,Financial & Insurance,Full-service banking,Canada-wide,https://ccua.com/about-credit-unions/find-a-credit-union/,everyday,Bank branches anyone can join,keep,,yes,Placeholder: expand into each Toronto credit union and branch
+Common Ground Co-operative,Food & Grocery,Catering (Lemon & Allspice) and coffee shops (The Coffee Shed),"Toronto, ON",https://commongroundco-op.ca/,everyday,Coffee shops anyone can buy from,keep,,no,Also listed under Social Purpose (same co-op); one pin per café
+Karma Co-op,Food & Grocery,Grocery store,"Toronto, ON",https://www.karmacoop.org/,everyday,Grocery store,keep,,no,
+Lunik Co-operative,Food & Grocery,Student café at York University,"Toronto, ON",http://lunikcoop.com/,everyday,Café open to the public,keep,,no,
+The Big Carrot,Food & Grocery,Grocery store & juice/coffee bars,"Toronto, ON",https://thebigcarrot.ca/,everyday,Grocery store,keep,,no,
+SolarShare,Green Energy,Solar bonds any Ontario resident can invest in,"Toronto, ON",https://solarbonds.ca/,niche,Investment product; no walk-in location,left_off,Online only,no,
+Beach Community Energy Co-operative,Green Energy,Green energy generator and promoter,"Toronto, ON",https://www.beachenergy.coop/,niche,Energy developer,left_off,Niche (energy developer),no,
+ZooShare,Green Energy,Zoo-based biogas producer,"Toronto, ON",https://zooshare.ca/,niche,Energy developer,left_off,Niche (energy developer),no,
+Counterpoint Co-op,Healthcare,Counselling & educational services,"Toronto, ON",https://counterpoint.coop/,everyday,Anyone can book counselling,keep,,no,CHECK: confirm they have a physical office (may be online only)
+Come As You Are,Retail,Sex-positive retailer and education,"Toronto, ON",https://www.comeasyouare.com/,everyday,Retail shop,keep,,no,CHECK: may now be online only
+Gender Gear,Retail,Online retailer of gender-affirming products,"Toronto, ON",https://www.gendergear.ca/,everyday,Retail,left_off,Online only,no,
+Urbane Cyclist,Retail,Cycling gear and bike repair,"Toronto, ON",https://www.ucycle.com/,everyday,Bike shop,keep,,no,
+BPG Co-op,Retail,Network of pro golf shops,Canada-wide,https://bpgcoop.com/,niche,Buying group for golf pros,left_off,Niche (buying group),no,
+Home Hardware,Retail,Home improvement retailer,Canada-wide,https://www.homehardware.ca/en/,everyday,Hardware stores,keep,,yes,Find every Toronto store
+Carpet One,Retail,Carpet and flooring stores,Canada-wide,https://www.carpetone.ca/,everyday,Flooring stores,keep,,yes,Find every Toronto store
+ClimateCare,Services,Network of heating and air conditioning contractors,Ontario-wide,https://www.climatecare.com/,everyday,Homeowners can book them,keep,,yes,Find every Toronto member office
+Co-op Cabs,Services,Taxi service,"Toronto, ON",http://www.co-opcabs.com/,everyday,Anyone can book a taxi,keep,,no,Pin at dispatch office
+Duserve Security Services,Services,Security guard services,"Toronto, ON",https://duservesecurity.com/,niche,Sells to businesses,left_off,Niche (business services),no,
+Send it Courier,Services,Bike courier,"Toronto, ON",https://www.senditcourier.ca/,niche,Mostly business deliveries; no storefront,left_off,Niche (business services),no,
+meet.coop,Services,Online meeting platform,Online,https://www.meet.coop/,niche,Online service,left_off,Online only,no,
+Community Wealth Co-operative,Social Purpose,Funding for social enterprises,"Toronto, ON",https://www.communitywealth.ca/,niche,Funder,left_off,Niche (business services),no,
+St. James Town Community Co-operative,Social Purpose,Employment for resident members,"Toronto, ON",https://stjamestowncoop.org/,niche,Member employment program,left_off,Niche (member program),no,CHECK: may run a public food business
+Hypha Co-op,Technology,Decentralized web protocols,Online (GTA),https://hypha.coop/,niche,Tech consulting,left_off,Online only,no,
+Libra Knowledge and Information Services Co-op,Technology,Consultants and web designers,Online (GTA),https://www.libraknowledgeinfo.net/,niche,Consulting,left_off,Online only,no,
+Lichen Community Systems Co-operative,Technology,Tech design and research,Online (Canada-wide),https://lichen.coop/,niche,Consulting,left_off,Online only,no,
