@@ -43,12 +43,16 @@ TORONTO_CITIES = ("Toronto, ON", "North York, ON", "Scarborough, ON", "Etobicoke
 TORONTO_BOXES = [((43.58, -79.64), (43.72, -79.38)), ((43.58, -79.38), (43.72, -79.11)),
                  ((43.72, -79.64), (43.86, -79.38)), ((43.72, -79.38), (43.86, -79.11))]
 
-# Chain name in our list -> (what to search for, words a real branch's name must contain)
+# Chain name in our list -> (what to search for, words a real branch's name must contain, note for the card)
 CHAINS = {
-    "Home Hardware": ("Home Hardware", ["home hardware", "home building centre"]),
-    "Carpet One": ("Carpet One Floor & Home", ["carpet one"]),
-    "Co-operators": ("Co-operators insurance", ["co-operators", "cooperators"]),
-    "ClimateCare": ("ClimateCare heating and cooling", ["climatecare", "climate care"]),
+    "Home Hardware": ("Home Hardware", ["home hardware", "home building centre"],
+                      "Locally owned store; Home Hardware is a co-op owned by its dealers"),
+    "Carpet One": ("Carpet One Floor & Home", ["carpet one"],
+                   "Locally owned store; Carpet One is a co-op owned by its member stores"),
+    "Co-operators": ("Co-operators insurance", ["co-operators", "cooperators"],
+                     "Independent agent selling Co-operators insurance (a co-op insurer)"),
+    "ClimateCare": ("ClimateCare heating and cooling", ["climatecare", "climate care"],
+                    "Local contractor; ClimateCare is a co-op of independent contractors"),
 }
 
 GENERIC_WORDS = {"credit", "union", "coop", "co", "op", "operative", "cooperative", "inc", "the", "toronto",
@@ -58,7 +62,7 @@ GENERIC_WORDS = {"credit", "union", "coop", "co", "op", "operative", "cooperativ
 
 OUT_FIELDS = ["name", "category", "address", "postal_code", "lat", "lng", "website", "phone", "hours",
               "google_name", "google_address", "google_maps_url", "google_place_id", "business_status",
-              "match", "source", "reason", "chain", "notes", "legal_name", "cmc_id", "last_checked"]
+              "match", "source", "reason", "chain", "card_note", "notes", "legal_name", "cmc_id", "last_checked"]
 LEFT_FIELDS = ["name", "category", "address", "postal_code", "lat", "lng", "website", "source", "reason",
                "chain", "needs", "notes", "legal_name", "cmc_id"]
 
@@ -211,7 +215,7 @@ def check_location(key, row, overrides):
 
 
 def find_chain_branches(key, row):
-    query, must = CHAINS[row["name"]]
+    query, must, card_note = CHAINS[row["name"]]
     found = {}
     for (lo_lat, lo_lng), (hi_lat, hi_lng) in TORONTO_BOXES:
         body = {"textQuery": query, "pageSize": 20, "locationRestriction": {"rectangle": {
@@ -225,21 +229,16 @@ def find_chain_branches(key, row):
             if not res.get("nextPageToken"):
                 break
             body = {**body, "pageToken": res["nextPageToken"]}
-    branches, addresses = [], {}
+    # Agents sharing one office stay as separate rows; the website groups them into one pin.
+    branches = []
     for p in found.values():
         street = p.get("formattedAddress", "").split(",")[0]
         if not re.match(r"^\d", street):
             log(f"Skipped {p['displayName']['text']}: no street address (not a walk-in branch)")
             continue
-        spot = " ".join(street.lower().split()[:2])  # street number + street name, ignores unit/floor
-        if spot in addresses:
-            log(f"Merged {p['displayName']['text']} into {addresses[spot]['name']} (same address)")
-            continue
         b = dict(row, name=p["displayName"]["text"], address="", lat="", lng="", website="", source="Google (chain branch)",
-                 notes="")
-        b = with_google(b, p, "good")
-        addresses[spot] = b
-        branches.append(b)
+                 notes="", card_note=card_note)
+        branches.append(with_google(b, p, "good"))
     log(f"{row['name']}: found {len(branches)} Toronto branches on Google")
     return branches
 
