@@ -21,8 +21,8 @@ The spec is `plan.md` (diagram: `diagram.html`). The design interview is finishe
 
 ## Milestones
 1. [x] Project setup + starting list from the PDF
-2. [~] Add co-ops from extra sources (done: `builder/pull_sources.py` -> `data/build/`) + expand chains into branches (to do via Google: Home Hardware, Carpet One, Co-operators, ClimateCare)
-3. [ ] Look up addresses/hours (Google, OpenStreetMap fallback)
+2. [x] Add co-ops from extra sources + chain branches (`builder/pull_sources.py`)
+3. [x] Google check: hours, phone, open/closed, chain branches (`builder/lookup_google.py` -> `data/build/coops_checked.csv`). Approve odd matches in `data/seed/review_overrides.csv`
 4. [ ] Notion database + preview/approve write
 5. [ ] Website (map, search, cards)
 6. [ ] Publish step + free hosting link
