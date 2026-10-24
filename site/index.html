@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toronto Co-op Map</title>
+  <meta name="description" content="Find co-operative businesses in Toronto: grocery stores, cafés, credit unions, hardware stores and more, owned by their members.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <aside class="panel" aria-label="Co-op search and details">
+      <header class="masthead">
+        <h1 class="title">Toronto Co-op Map</h1>
+        <p class="lede">Shops, cafés, credit unions and services owned by the people who use them.</p>
+      </header>
+
+      <div class="search">
+        <label class="visually-hidden" for="q">Search co-ops</label>
+        <input id="q" type="search" autocomplete="off"
+               placeholder="Try “grocery” or “Leslieville”">
+        <button id="near-me" class="near-me" type="button">Near me</button>
+      </div>
+      <div id="categories" class="categories" role="group" aria-label="Filter by type"></div>
+
+      <section id="list-view" class="view" aria-live="polite">
+        <p id="summary" class="summary"></p>
+        <div id="address-search" class="address-search" hidden></div>
+        <ol id="results" class="results"></ol>
+      </section>
+
+      <section id="detail-view" class="view" hidden>
+        <button id="back" class="back" type="button">All co-ops</button>
+        <div id="detail"></div>
+      </section>
+
+      <footer class="credits">
+        <p>Co-op list from the Ontario Co-operative Association and Co-operatives and Mutuals Canada. Hours and phone numbers from Google, last checked <span id="updated"></span>.</p>
+      </footer>
+    </aside>
+
+    <div id="map" class="map" role="region" aria-label="Map of co-ops"></div>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
