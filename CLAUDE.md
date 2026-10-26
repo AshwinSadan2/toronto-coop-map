@@ -23,6 +23,6 @@ The spec is `plan.md` (diagram: `diagram.html`). The design interview is finishe
 1. [x] Project setup + starting list from the PDF
 2. [x] Add co-ops from extra sources + chain branches (`builder/pull_sources.py`)
 3. [x] Google check: hours, phone, open/closed, chain branches (`builder/lookup_google.py` -> `data/build/coops_checked.csv`). Approve odd matches in `data/seed/review_overrides.csv`
-4. [ ] Notion database + preview/approve write
+4. [x] Notion database + preview/approve write (`builder/notion_sync.py`; `--preview` writes nothing). Database "Co-op list" inside the one page the connection "Co Op Map" can see (workspace: Ashwin's Notion). Untick "Show on site" to hide a co-op
 5. [x] Website in `site/` (map, search, filters, street-sign cards). Data: `builder/export_site.py` -> `site/data/coops.json` (temporary until Notion publish). Preview: `cd site && python3 -m http.server 8765`
 6. [ ] Publish step + free hosting link
