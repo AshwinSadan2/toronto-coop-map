@@ -1,92 +1,31 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-26",
  "coops": [
   {
-   "id": "ChIJdwhavs80K4gRTKTBmUmQHKI",
-   "name": "Beaver Hall Gallery",
-   "category": "Arts & Culture",
-   "note": "",
-   "address": "29 McCaul St, Toronto, ON M5T 1V7",
-   "neighbourhood": "Kensington-Chinatown",
+   "id": "ChIJN5-0tF8xK4gRU6tXHD35pjE",
+   "name": "Air Treatment ClimateCare",
+   "category": "Home & Hardware",
+   "note": "Local contractor; ClimateCare is a co-op of independent contractors",
+   "address": "20 Densley Ave, North York, ON M6M 2R1",
+   "neighbourhood": "Brookhaven-Amesbury",
    "searchAreas": [
-    "Kensington-Chinatown",
-    "Kensington Market",
-    "Chinatown",
-    "Downtown",
-    ""
+    "Brookhaven-Amesbury",
+    "North York"
    ],
-   "lat": 43.651237,
-   "lng": -79.390015,
-   "phone": "(647) 710-9566",
+   "lat": 43.70377,
+   "lng": -79.47497,
+   "phone": "(416) 235-0373",
    "hours": [
-    "Monday: 11:00 AM – 7:30 PM",
-    "Tuesday: 10:30 AM – 7:30 PM",
-    "Wednesday: 12:00 AM – 5:00 PM",
-    "Thursday: Closed",
-    "Friday: 12:00 AM – 5:00 PM",
-    "Saturday: 12:00 AM – 5:00 PM",
-    "Sunday: 11:00 AM – 5:00 PM"
-   ],
-   "website": "http://beaverhallcoop.blogspot.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.651237,-79.390015&destination_place_id=ChIJdwhavs80K4gRTKTBmUmQHKI",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ-bz8qts0K4gRyZ8elCL-zEs",
-   "name": "Contemporary Textile Studio Co-op",
-   "category": "Arts & Culture",
-   "note": "",
-   "address": "401 Richmond St W, Toronto, ON M5V 1X3",
-   "neighbourhood": "Wellington Place",
-   "searchAreas": [
-    "Wellington Place",
-    "Entertainment District",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.647856,
-   "lng": -79.394973,
-   "phone": "",
-   "hours": [
-    "Monday: 10:00 AM – 4:00 PM",
-    "Tuesday: 10:00 AM – 4:00 PM",
-    "Wednesday: 10:00 AM – 4:00 PM",
-    "Thursday: 10:00 AM – 4:00 PM",
-    "Friday: 10:00 AM – 4:00 PM",
-    "Saturday: 10:00 AM – 4:00 PM",
-    "Sunday: 10:00 AM – 4:00 PM"
-   ],
-   "website": "https://www.textilestudio.ca",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.647856,-79.394973&destination_place_id=ChIJ-bz8qts0K4gRyZ8elCL-zEs",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJvWoHrNs0K4gRP9NXd05InGU",
-   "name": "The Red Head Gallery",
-   "category": "Arts & Culture",
-   "note": "",
-   "address": "401 Richmond St W, Toronto, ON M5V 3A8",
-   "neighbourhood": "Wellington Place",
-   "searchAreas": [
-    "Wellington Place",
-    "Entertainment District",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.647756,
-   "lng": -79.394471,
-   "phone": "(416) 504-5654",
-   "hours": [
-    "Monday: Closed",
-    "Tuesday: Closed",
-    "Wednesday: 12:00 – 5:00 PM",
-    "Thursday: 12:00 – 5:00 PM",
-    "Friday: 12:00 – 5:00 PM",
-    "Saturday: 12:00 – 5:00 PM",
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: Closed",
     "Sunday: Closed"
    ],
-   "website": "https://www.redheadgallery.org/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.647756,-79.394471&destination_place_id=ChIJvWoHrNs0K4gRP9NXd05InGU",
+   "website": "https://www.airtreatment.net/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.70377,-79.47497&destination_place_id=ChIJN5-0tF8xK4gRU6tXHD35pjE",
    "lastChecked": "2026-10-23"
   },
   {
@@ -280,6 +219,91 @@
    "lastChecked": "2026-10-23"
   },
   {
+   "id": "ChIJNTXI_I02K4gRK25kdUMSwZU",
+   "name": "Baby Point Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "777 Annette St, Toronto, ON M6S 2E4",
+   "neighbourhood": "Runnymede-Bloor West Village",
+   "searchAreas": [
+    "Runnymede-Bloor West Village",
+    "Bloor West Village",
+    ""
+   ],
+   "lat": 43.658293,
+   "lng": -79.487544,
+   "phone": "(416) 769-7774",
+   "hours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 4:00 PM"
+   ],
+   "website": "http://babypointhardware.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.658293,-79.487544&destination_place_id=ChIJNTXI_I02K4gRK25kdUMSwZU",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ41VtI23S1IkR76_BFqCZ4_o",
+   "name": "Bailey's Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "85 Ellesmere Rd, Scarborough, ON M1R 4B7",
+   "neighbourhood": "Wexford/Maryvale",
+   "searchAreas": [
+    "Wexford/Maryvale",
+    "Scarborough"
+   ],
+   "lat": 43.757237,
+   "lng": -79.312082,
+   "phone": "(416) 444-6629",
+   "hours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/store/12340?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=12340",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.757237,-79.312082&destination_place_id=ChIJ41VtI23S1IkR76_BFqCZ4_o",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJdwhavs80K4gRTKTBmUmQHKI",
+   "name": "Beaver Hall Gallery",
+   "category": "Arts & Culture",
+   "note": "",
+   "address": "29 McCaul St, Toronto, ON M5T 1V7",
+   "neighbourhood": "Kensington-Chinatown",
+   "searchAreas": [
+    "Kensington-Chinatown",
+    "Kensington Market",
+    "Chinatown",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.651237,
+   "lng": -79.390015,
+   "phone": "(647) 710-9566",
+   "hours": [
+    "Monday: 11:00 AM – 7:30 PM",
+    "Tuesday: 10:30 AM – 7:30 PM",
+    "Wednesday: 12:00 AM – 5:00 PM",
+    "Thursday: Closed",
+    "Friday: 12:00 AM – 5:00 PM",
+    "Saturday: 12:00 AM – 5:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+   ],
+   "website": "http://beaverhallcoop.blogspot.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.651237,-79.390015&destination_place_id=ChIJdwhavs80K4gRTKTBmUmQHKI",
+   "lastChecked": "2026-10-23"
+  },
+  {
    "id": "ChIJidlYAYc2K4gRBoIZO8y7Q1Y",
    "name": "Buduchnist Credit Union",
    "category": "Banking",
@@ -305,6 +329,1115 @@
    ],
    "website": "https://bcufinancial.com/",
    "directions": "https://www.google.com/maps/dir/?api=1&destination=43.650958,-79.478495&destination_place_id=ChIJidlYAYc2K4gRBoIZO8y7Q1Y",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJbX0pFR81K4gRWehVEFa5sxA",
+   "name": "Campus Community Co-op Day Care Centre",
+   "category": "Childcare",
+   "note": "",
+   "address": "370 Huron St, Toronto, ON M5S 2G4",
+   "neighbourhood": "University",
+   "searchAreas": [
+    "University",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.664512,
+   "lng": -79.400891,
+   "phone": "(416) 946-0875",
+   "hours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.campuscoopdaycare.ca",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.664512,-79.400891&destination_place_id=ChIJbX0pFR81K4gRWehVEFa5sxA",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ44zfypw2K4gRJzzI5GQ4Hmg",
+   "name": "Children's Creative Corner Co-op Nursery School",
+   "category": "Childcare",
+   "note": "",
+   "address": "Front entry, between both high schools, 125 Evelyn Crescent, Toronto, ON M6P 3E3",
+   "neighbourhood": "High Park North",
+   "searchAreas": [
+    "High Park North",
+    "High Park",
+    ""
+   ],
+   "lat": 43.656315,
+   "lng": -79.475132,
+   "phone": "(416) 769-4938",
+   "hours": [
+    "Monday: 9:00 AM – 2:00 PM",
+    "Tuesday: 9:00 AM – 2:00 PM",
+    "Wednesday: 9:00 AM – 2:00 PM",
+    "Thursday: 9:00 AM – 2:00 PM",
+    "Friday: 9:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://ccnurseryschool.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.656315,-79.475132&destination_place_id=ChIJ44zfypw2K4gRJzzI5GQ4Hmg",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJPSD0rvY3K4gRnpN7frMamW0",
+   "name": "Cloverdale Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "250 The East Mall Unit 249, Etobicoke, ON M9B 3Y8",
+   "neighbourhood": "Etobicoke City Centre",
+   "searchAreas": [
+    "Etobicoke City Centre",
+    "Etobicoke"
+   ],
+   "lat": 43.631075,
+   "lng": -79.55569,
+   "phone": "(416) 234-0601",
+   "hours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/store/13469?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=13469",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.631075,-79.55569&destination_place_id=ChIJPSD0rvY3K4gRnpN7frMamW0",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJAQDwGEIwK4gRkfcg8yzrLm8",
+   "name": "Co-op Cabs",
+   "category": "Getting Around",
+   "note": "",
+   "address": "130 Rivalda Rd, North York, ON M9M 2M8",
+   "neighbourhood": "Humbermede",
+   "searchAreas": [
+    "Humbermede",
+    "North York"
+   ],
+   "lat": 43.743715,
+   "lng": -79.53659,
+   "phone": "(416) 504-2667",
+   "hours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+   ],
+   "website": "https://co-opcabs.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.743715,-79.53659&destination_place_id=ChIJAQDwGEIwK4gRkfcg8yzrLm8",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJkTLyRKDS1IkRSFGGVOKRbYE",
+   "name": "Co-operators",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "1500 Don Mills Rd. Ste 707, North York, ON M3B 3K4",
+   "neighbourhood": "Banbury-Don Mills",
+   "searchAreas": [
+    "Banbury-Don Mills",
+    "Don Mills",
+    "North York"
+   ],
+   "lat": 43.755037,
+   "lng": -79.347704,
+   "phone": "(416) 383-1600",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.cooperators.ca/local/donmills-toronto?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.755037,-79.347704&destination_place_id=ChIJkTLyRKDS1IkRSFGGVOKRbYE",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJx21cqcDT1IkRuYCGMDeJ9tU",
+   "name": "Co-operators",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "2677 Kennedy Rd #28, Scarborough, ON M1T 3H8",
+   "neighbourhood": "East L'Amoreaux",
+   "searchAreas": [
+    "East L'Amoreaux",
+    "Scarborough"
+   ],
+   "lat": 43.796338,
+   "lng": -79.293127,
+   "phone": "(416) 498-8383",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/kennedy-scarborough/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796338,-79.293127&destination_place_id=ChIJx21cqcDT1IkRuYCGMDeJ9tU",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ24KqQIvb1IkRm8TyTQFZc6I",
+   "name": "Co-operators",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "91 Rylander Blvd Unit 209, Scarborough, ON M1B 5M5",
+   "neighbourhood": "West Rouge",
+   "searchAreas": [
+    "West Rouge",
+    "Scarborough"
+   ],
+   "lat": 43.796974,
+   "lng": -79.151688,
+   "phone": "(416) 724-7332",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/shant-hallajian/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796974,-79.151688&destination_place_id=ChIJ24KqQIvb1IkRm8TyTQFZc6I",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJb1AiJ3HR1IkRsCuyretChBg",
+   "name": "Co-operators",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "8 Glen Watford Dr Unit G33-36, Scarborough, ON M1S 2B9",
+   "neighbourhood": "Agincourt South-Malvern West",
+   "searchAreas": [
+    "Agincourt South-Malvern West",
+    "Scarborough"
+   ],
+   "lat": 43.786933,
+   "lng": -79.276272,
+   "phone": "(416) 332-1833",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/kenny-leong?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.786933,-79.276272&destination_place_id=ChIJb1AiJ3HR1IkRsCuyretChBg",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJWRuf1c40K4gR8Wq--od-MTY",
+   "name": "Co-operators",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "1820 Bayview Ave Unit E, Toronto, ON M4G 4G7",
+   "neighbourhood": "Mount Pleasant East",
+   "searchAreas": [
+    "Mount Pleasant East",
+    ""
+   ],
+   "lat": 43.712833,
+   "lng": -79.377674,
+   "phone": "(416) 256-2667",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/vuslat-muge-aydin/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.712833,-79.377674&destination_place_id=ChIJWRuf1c40K4gR8Wq--od-MTY",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJo_q_KFk3K4gR1bzztpQTofk",
+   "name": "Co-operators",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "2440 Bloor St W 2nd Floor, Toronto, ON M6S 1P9",
+   "neighbourhood": "Runnymede-Bloor West Village",
+   "searchAreas": [
+    "Runnymede-Bloor West Village",
+    "Bloor West Village",
+    ""
+   ],
+   "lat": 43.64958,
+   "lng": -79.484384,
+   "phone": "(416) 604-1357",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/bloor-toronto/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.64958,-79.484384&destination_place_id=ChIJo_q_KFk3K4gR1bzztpQTofk",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJs1Ft0sLR1IkRTYuaH2wA0s4",
+   "name": "Co-operators - Amy Wang Insurance & Investment Inc.",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "2677 Kennedy Rd #28, Scarborough, ON M1T 3H8",
+   "neighbourhood": "East L'Amoreaux",
+   "searchAreas": [
+    "East L'Amoreaux",
+    "Scarborough"
+   ],
+   "lat": 43.796338,
+   "lng": -79.293128,
+   "phone": "(416) 288-1808",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/amy-wang-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796338,-79.293128&destination_place_id=ChIJs1Ft0sLR1IkRTYuaH2wA0s4",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJpSim5e_T1IkRfYjGjBE8kKM",
+   "name": "Co-operators - Andy Chow & Associates Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "1883 McNicoll Ave #21, Scarborough, ON M1V 5M3",
+   "neighbourhood": "Steeles",
+   "searchAreas": [
+    "Steeles",
+    "Scarborough"
+   ],
+   "lat": 43.81173,
+   "lng": -79.302055,
+   "phone": "(416) 293-3332",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/andy-chow-associates/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.81173,-79.302055&destination_place_id=ChIJpSim5e_T1IkRfYjGjBE8kKM",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ9-vd8jA2K4gRD6n-FsQiuMc",
+   "name": "Co-operators - Angela Rolo Insurance Services Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "781 The Queensway Unit E, Etobicoke, ON M8Z 6A8",
+   "neighbourhood": "Stonegate-Queensway",
+   "searchAreas": [
+    "Stonegate-Queensway",
+    "Etobicoke"
+   ],
+   "lat": 43.625351,
+   "lng": -79.505686,
+   "phone": "(416) 252-3436",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/angela-rolo-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.625351,-79.505686&destination_place_id=ChIJ9-vd8jA2K4gRD6n-FsQiuMc",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ7dliHk8tK4gR4xsZSyIEUdk",
+   "name": "Co-operators - Anthony Yu & Associates Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "500 Sheppard Ave E Ste 308, North York, ON M2N 6H7",
+   "neighbourhood": "East Willowdale",
+   "searchAreas": [
+    "East Willowdale",
+    "Willowdale",
+    "North York"
+   ],
+   "lat": 43.76688,
+   "lng": -79.388878,
+   "phone": "(416) 223-2667",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/anthony-yu-associates/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.76688,-79.388878&destination_place_id=ChIJ7dliHk8tK4gR4xsZSyIEUdk",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJTyw64eHP1IkRpwlSO2xPJjM",
+   "name": "Co-operators - ARC Insurance & Financial Services Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "3473 Kingston Rd, Scarborough, ON M1M 1R4",
+   "neighbourhood": "Scarborough Village",
+   "searchAreas": [
+    "Scarborough Village",
+    "Scarborough"
+   ],
+   "lat": 43.737495,
+   "lng": -79.217425,
+   "phone": "(416) 264-5858",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/arc-insurance-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.737495,-79.217425&destination_place_id=ChIJTyw64eHP1IkRpwlSO2xPJjM",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJl02Uol_R1IkRIg9TnSasLmk",
+   "name": "Co-operators - Cao Insurance & Investments Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "2677 Kennedy Rd #28, Scarborough, ON M1T 3H8",
+   "neighbourhood": "East L'Amoreaux",
+   "searchAreas": [
+    "East L'Amoreaux",
+    "Scarborough"
+   ],
+   "lat": 43.796338,
+   "lng": -79.293128,
+   "phone": "(416) 332-0332",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/cao-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796338,-79.293128&destination_place_id=ChIJl02Uol_R1IkRIg9TnSasLmk",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJPQT0AegyK4gRs6pYDHnGYX8",
+   "name": "Co-operators - Delvand Insurance Agency Ltd",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "3164 Yonge St, Toronto, ON M4N 2K6",
+   "neighbourhood": "Lawrence Park North",
+   "searchAreas": [
+    "Lawrence Park North",
+    ""
+   ],
+   "lat": 43.727276,
+   "lng": -79.403048,
+   "phone": "(416) 544-8100",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/delvand-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.727276,-79.403048&destination_place_id=ChIJPQT0AegyK4gRs6pYDHnGYX8",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJkYjjtswwK4gRx3u3QDLuVzg",
+   "name": "Co-operators - Frank Vaccaro Insurance Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "1500 Royal York Rd, Etobicoke, ON M9P 3B6",
+   "neighbourhood": "Willowridge-Martingrove-Richview",
+   "searchAreas": [
+    "Willowridge-Martingrove-Richview",
+    "Etobicoke"
+   ],
+   "lat": 43.691684,
+   "lng": -79.531999,
+   "phone": "(416) 243-8400",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/frank-vaccaro-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.691684,-79.531999&destination_place_id=ChIJkYjjtswwK4gRx3u3QDLuVzg",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ__8vdjo0K4gRCj8qUZZBDSY",
+   "name": "Co-operators - Garthside Group Financial Inc.",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "2440 Bloor St W Unit-2, Toronto, ON M6S 1P9",
+   "neighbourhood": "Runnymede-Bloor West Village",
+   "searchAreas": [
+    "Runnymede-Bloor West Village",
+    "Bloor West Village",
+    ""
+   ],
+   "lat": 43.649581,
+   "lng": -79.484384,
+   "phone": "(416) 604-4455",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/garthside-group-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.649581,-79.484384&destination_place_id=ChIJ__8vdjo0K4gRCj8qUZZBDSY",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJcWL4IXTT1IkRI1MvZ7K3o84",
+   "name": "Co-operators - Ge financial services Inc.",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "3790 Victoria Park Ave Unit 201, North York, ON M2H 3H7",
+   "neighbourhood": "Hillcrest Village",
+   "searchAreas": [
+    "Hillcrest Village",
+    "North York"
+   ],
+   "lat": 43.810969,
+   "lng": -79.339889,
+   "phone": "(416) 756-2888",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.cooperators.ca/local/linda-jun-ge?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.810969,-79.339889&destination_place_id=ChIJcWL4IXTT1IkRI1MvZ7K3o84",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJLUKimVnS1IkRESCx9DqdL5o",
+   "name": "Co-operators - Irene Sham Insurance Agency Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "2010 Sheppard Ave E, North York, ON M2J 3K7",
+   "neighbourhood": "Pleasant View",
+   "searchAreas": [
+    "Pleasant View",
+    "North York"
+   ],
+   "lat": 43.775635,
+   "lng": -79.331045,
+   "phone": "(416) 502-8800",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/irene-sham-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.775635,-79.331045&destination_place_id=ChIJLUKimVnS1IkRESCx9DqdL5o",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJvQP8RkDV1IkRFljutROmSfY",
+   "name": "Co-Operators - JW Insurance",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "633 Silver Star Blvd F1, Scarborough, ON M1V 5N1",
+   "neighbourhood": "Milliken",
+   "searchAreas": [
+    "Milliken",
+    "Scarborough"
+   ],
+   "lat": 43.821778,
+   "lng": -79.298433,
+   "phone": "(416) 385-1888",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/jw-insurance?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.821778,-79.298433&destination_place_id=ChIJvQP8RkDV1IkRFljutROmSfY",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJHWdk3lwyK4gRsyJu2RcXwuY",
+   "name": "Co-operators - Kahai Insurance & Investments Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "333 Wilson Ave Unit 102, North York, ON M3H 1T2",
+   "neighbourhood": "Clanton Park",
+   "searchAreas": [
+    "Clanton Park",
+    "North York"
+   ],
+   "lat": 43.736827,
+   "lng": -79.435436,
+   "phone": "(416) 398-2667",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/kahai-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.736827,-79.435436&destination_place_id=ChIJHWdk3lwyK4gRsyJu2RcXwuY",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJs4Zcj6Q3K4gRBUqErXB9RTI",
+   "name": "Co-operators - Lola Macanowicz Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "5048 Dundas St W, Etobicoke, ON M9A 1B9",
+   "neighbourhood": "Islington",
+   "searchAreas": [
+    "Islington",
+    "Etobicoke"
+   ],
+   "lat": 43.646088,
+   "lng": -79.531521,
+   "phone": "(416) 234-2777",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/lola-macanowicz-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.646088,-79.531521&destination_place_id=ChIJs4Zcj6Q3K4gRBUqErXB9RTI",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJxfa8zLXS1IkREHTl8Pdinok",
+   "name": "Co-operators - Oscar Luo Financial Services Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "738 Sheppard Ave E Ste 204, North York, ON M2K 1C3",
+   "neighbourhood": "Bayview Village",
+   "searchAreas": [
+    "Bayview Village",
+    "North York"
+   ],
+   "lat": 43.769892,
+   "lng": -79.375863,
+   "phone": "(416) 250-8815",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/oscar-luo-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.769892,-79.375863&destination_place_id=ChIJxfa8zLXS1IkREHTl8Pdinok",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJK6iliq43K4gRvyFC_hQIvJ0",
+   "name": "Co-operators - Richelle Lynk Insurance Services Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "781 The Queensway Unit E, Etobicoke, ON M8Z 6A8",
+   "neighbourhood": "Stonegate-Queensway",
+   "searchAreas": [
+    "Stonegate-Queensway",
+    "Etobicoke"
+   ],
+   "lat": 43.625275,
+   "lng": -79.505622,
+   "phone": "(416) 234-2794",
+   "hours": [],
+   "website": "https://www.cooperators.ca/local/richelle-lynk-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.625275,-79.505622&destination_place_id=ChIJK6iliq43K4gRvyFC_hQIvJ0",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJX6xptmA3K4gRyaUmgwahxlE",
+   "name": "Co-operators - Rita Tejpal Insurance Agency Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "201 Lloyd Manor Rd Unit 202, Etobicoke, ON M9B 6H6",
+   "neighbourhood": "Princess-Rosethorn",
+   "searchAreas": [
+    "Princess-Rosethorn",
+    "Etobicoke"
+   ],
+   "lat": 43.67519,
+   "lng": -79.555494,
+   "phone": "(416) 236-3372",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/rita-tejpal-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.67519,-79.555494&destination_place_id=ChIJX6xptmA3K4gRyaUmgwahxlE",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJE83AM481K4gRGbYXc-DzVkA",
+   "name": "Co-operators - RJB Insurance Group Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "80 Scollard St Suite 203, Toronto, ON M5R 1G2",
+   "neighbourhood": "Annex",
+   "searchAreas": [
+    "Annex",
+    "The Annex",
+    ""
+   ],
+   "lat": 43.672096,
+   "lng": -79.391363,
+   "phone": "(416) 264-2281",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/rjb-insurance-group/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.672096,-79.391363&destination_place_id=ChIJE83AM481K4gRGbYXc-DzVkA",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJpbVEhFbO1IkRVSjIX4-AaOw",
+   "name": "Co-operators - RJB Insurance Group Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "149 E Liberty St Ste 282, Toronto, ON M6K 0H7",
+   "neighbourhood": "Fort York-Liberty Village",
+   "searchAreas": [
+    "Fort York-Liberty Village",
+    "Liberty Village",
+    ""
+   ],
+   "lat": 43.638454,
+   "lng": -79.41712,
+   "phone": "(416) 264-2281",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/rjb-insurance-group/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.638454,-79.41712&destination_place_id=ChIJpbVEhFbO1IkRVSjIX4-AaOw",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJwRv58ictK4gRB0r3M6VCXfQ",
+   "name": "Co-operators - Sandy Chen Financial Inc.",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "3333 Bayview Ave #202, North York, ON M2K 2Y5",
+   "neighbourhood": "Bayview Woods-Steeles",
+   "searchAreas": [
+    "Bayview Woods-Steeles",
+    "North York"
+   ],
+   "lat": 43.791855,
+   "lng": -79.392849,
+   "phone": "(416) 512-8585",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/sandy-chen-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.791855,-79.392849&destination_place_id=ChIJwRv58ictK4gRB0r3M6VCXfQ",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ1fG3IFza1IkRPXwxG36Cyro",
+   "name": "Co-operators - SL Block & Associates Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "91 Rylander Blvd Unit 209, Scarborough, ON M1B 5M5",
+   "neighbourhood": "West Rouge",
+   "searchAreas": [
+    "West Rouge",
+    "Scarborough"
+   ],
+   "lat": 43.796974,
+   "lng": -79.151688,
+   "phone": "(416) 724-7277",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/sl-block-associiates/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796974,-79.151688&destination_place_id=ChIJ1fG3IFza1IkRPXwxG36Cyro",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ1SLcEX0xK4gRyKC4HniDO9Q",
+   "name": "Co-operators - Torrejon Financial Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "2355 Keele St Unit 5D, North York, ON M6M 4A2",
+   "neighbourhood": "Brookhaven-Amesbury",
+   "searchAreas": [
+    "Brookhaven-Amesbury",
+    "North York"
+   ],
+   "lat": 43.70767,
+   "lng": -79.476273,
+   "phone": "(416) 249-9764",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/leticia-torrejon/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.70767,-79.476273&destination_place_id=ChIJ1SLcEX0xK4gRyKC4HniDO9Q",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJU1tZ_wfa1IkRK4RHwmNbKDc",
+   "name": "Co-operators - Vel Insurance Services Inc",
+   "category": "Insurance",
+   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
+   "address": "10 Milner Business Ct Unit 708, Scarborough, ON M1B 3C6",
+   "neighbourhood": "Malvern East",
+   "searchAreas": [
+    "Malvern East",
+    "Scarborough"
+   ],
+   "lat": 43.788671,
+   "lng": -79.235687,
+   "phone": "(416) 396-0707",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.cooperators.ca/local/vel-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.788671,-79.235687&destination_place_id=ChIJU1tZ_wfa1IkRK4RHwmNbKDc",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJUS7uLADT1IkRXasOxQ-YCoU",
+   "name": "Co-operators Claims Office",
+   "category": "Insurance",
+   "note": "",
+   "address": "155 Gordon Baker Rd, North York, ON M2H 3N5",
+   "neighbourhood": "Hillcrest Village",
+   "searchAreas": [
+    "Hillcrest Village",
+    "North York"
+   ],
+   "lat": 43.80444,
+   "lng": -79.343915,
+   "phone": "",
+   "hours": [],
+   "website": "https://www.cooperators.ca/en/contact-us",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.80444,-79.343915&destination_place_id=ChIJUS7uLADT1IkRXasOxQ-YCoU",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ3yyiz8E0K4gRQ1Q9QeYT1c0",
+   "name": "College Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "290 College St, Toronto, ON M5T 1S2",
+   "neighbourhood": "University",
+   "searchAreas": [
+    "University",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.657883,
+   "lng": -79.401366,
+   "phone": "(416) 922-1158",
+   "hours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/store/13817?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=13817",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.657883,-79.401366&destination_place_id=ChIJ3yyiz8E0K4gRQ1Q9QeYT1c0",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ99I2Kuc0K4gRaVuCrNFeYnc",
+   "name": "Come As You Are",
+   "category": "Shops",
+   "note": "",
+   "address": "464 College St, Toronto, ON M6G 1A1",
+   "neighbourhood": "Kensington-Chinatown",
+   "searchAreas": [
+    "Kensington-Chinatown",
+    "Kensington Market",
+    "Chinatown",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.655775,
+   "lng": -79.402754,
+   "phone": "(416) 504-7934",
+   "hours": [
+    "Monday: Closed",
+    "Tuesday: 12:00 – 7:00 PM",
+    "Wednesday: 12:00 – 7:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 12:00 – 7:00 PM",
+    "Saturday: 12:00 – 7:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+   ],
+   "website": "https://www.comeasyouare.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.655775,-79.402754&destination_place_id=ChIJ99I2Kuc0K4gRaVuCrNFeYnc",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ-bz8qts0K4gRyZ8elCL-zEs",
+   "name": "Contemporary Textile Studio Co-op",
+   "category": "Arts & Culture",
+   "note": "",
+   "address": "401 Richmond St W, Toronto, ON M5V 1X3",
+   "neighbourhood": "Wellington Place",
+   "searchAreas": [
+    "Wellington Place",
+    "Entertainment District",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.647856,
+   "lng": -79.394973,
+   "phone": "",
+   "hours": [
+    "Monday: 10:00 AM – 4:00 PM",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+   ],
+   "website": "https://www.textilestudio.ca",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.647856,-79.394973&destination_place_id=ChIJ-bz8qts0K4gRyZ8elCL-zEs",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJcVZzelPL1IkRlWNoL23X8fo",
+   "name": "Counterpoint Co-op",
+   "category": "Health & Wellness",
+   "note": "",
+   "address": "920 Yonge St, Toronto, ON M4W 3C7",
+   "neighbourhood": "Annex",
+   "searchAreas": [
+    "Annex",
+    "The Annex",
+    ""
+   ],
+   "lat": 43.674096,
+   "lng": -79.38854,
+   "phone": "(416) 920-0268",
+   "hours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://counterpoint.coop/coop-wpv3/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.674096,-79.38854&destination_place_id=ChIJcVZzelPL1IkRlWNoL23X8fo",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJq6pqYi3L1IkRoRh42RUbRj8",
+   "name": "Desjardins Ontario Credit Union - Toronto",
+   "category": "Banking",
+   "note": "",
+   "address": "11 King St W, Toronto, ON M5H 4C7",
+   "neighbourhood": "Yonge-Bay Corridor",
+   "searchAreas": [
+    "Yonge-Bay Corridor",
+    "Financial District",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.648839,
+   "lng": -79.378508,
+   "phone": "(416) 867-3600",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.desjardins.com/ca/locator/index.jsp#/ps",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.648839,-79.378508&destination_place_id=ChIJq6pqYi3L1IkRoRh42RUbRj8",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJnWywffQyK4gRnPZxdmXzzQ4",
+   "name": "Dickson Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "2028 Avenue Rd, North York, ON M5M 4A4",
+   "neighbourhood": "Bedford Park-Nortown",
+   "searchAreas": [
+    "Bedford Park-Nortown",
+    "North York"
+   ],
+   "lat": 43.735638,
+   "lng": -79.420251,
+   "phone": "(416) 487-4029",
+   "hours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/en/store/19083?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=19083",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.735638,-79.420251&destination_place_id=ChIJnWywffQyK4gRnPZxdmXzzQ4",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJv8CKTfk0K4gRPCmo7U7g_nw",
+   "name": "Downtown Lumber Home Building Centre",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "9 Morrow Ave, Toronto, ON M6R 2H9",
+   "neighbourhood": "Roncesvalles",
+   "searchAreas": [
+    "Roncesvalles",
+    "Roncy",
+    ""
+   ],
+   "lat": 43.652328,
+   "lng": -79.446699,
+   "phone": "(416) 532-4356",
+   "hours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.homehardware.ca/en/store/13079?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=13079",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.652328,-79.446699&destination_place_id=ChIJv8CKTfk0K4gRPCmo7U7g_nw",
    "lastChecked": "2026-10-23"
   },
   {
@@ -473,35 +1606,6 @@
    "lastChecked": "2026-10-23"
   },
   {
-   "id": "ChIJq6pqYi3L1IkRoRh42RUbRj8",
-   "name": "Desjardins Ontario Credit Union - Toronto",
-   "category": "Banking",
-   "note": "",
-   "address": "11 King St W, Toronto, ON M5H 4C7",
-   "neighbourhood": "Yonge-Bay Corridor",
-   "searchAreas": [
-    "Yonge-Bay Corridor",
-    "Financial District",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.648839,
-   "lng": -79.378508,
-   "phone": "(416) 867-3600",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.desjardins.com/ca/locator/index.jsp#/ps",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.648839,-79.378508&destination_place_id=ChIJq6pqYi3L1IkRoRh42RUbRj8",
-   "lastChecked": "2026-10-23"
-  },
-  {
    "id": "ChIJZ9kFXyUzK4gRcaKW7EsyooI",
    "name": "Finnish Credit Union",
    "category": "Banking",
@@ -585,6 +1689,169 @@
    ],
    "website": "https://fortyork.com/",
    "directions": "https://www.google.com/maps/dir/?api=1&destination=43.653623,-79.377835&destination_place_id=ChIJa7eaiE7L1IkR7Af49lkKDLI",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJe9qkn4EyK4gRm2F9bjspvRg",
+   "name": "Glen Cameron For Kids Co-op Nursery School",
+   "category": "Childcare",
+   "note": "",
+   "address": "211 Cameron Ave, North York, ON M2N 1E8",
+   "neighbourhood": "Lansing-Westgate",
+   "searchAreas": [
+    "Lansing-Westgate",
+    "North York"
+   ],
+   "lat": 43.754385,
+   "lng": -79.421322,
+   "phone": "(416) 225-5788",
+   "hours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.glencameronforkids.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.754385,-79.421322&destination_place_id=ChIJe9qkn4EyK4gRm2F9bjspvRg",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJdx4fUQwvK4gR2R1ju9YC4YY",
+   "name": "Green Campus Co-operative",
+   "category": "Shops",
+   "note": "",
+   "address": "4700 Keele St North Ross 142, North York, ON M3J 1P3",
+   "neighbourhood": "York University Heights",
+   "searchAreas": [
+    "York University Heights",
+    "North York"
+   ],
+   "lat": 43.77165,
+   "lng": -79.501321,
+   "phone": "(647) 993-5054",
+   "hours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.greencampus.coop/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.77165,-79.501321&destination_place_id=ChIJdx4fUQwvK4gR2R1ju9YC4YY",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJZ2Fj330zK4gRSYOwkHtFBa0",
+   "name": "Hillcrest Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "60 Vaughan Rd, Toronto, ON M6G 2N4",
+   "neighbourhood": "Wychwood",
+   "searchAreas": [
+    "Wychwood",
+    ""
+   ],
+   "lat": 43.682427,
+   "lng": -79.419857,
+   "phone": "(416) 656-9700",
+   "hours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/en/store/15827?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=15827",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.682427,-79.419857&destination_place_id=ChIJZ2Fj330zK4gRSYOwkHtFBa0",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJDz6ikfw1K4gRazLBQ0KeLb0",
+   "name": "Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "828 Dupont St, Toronto, ON M6G 1Z6",
+   "neighbourhood": "Dovercourt Village",
+   "searchAreas": [
+    "Dovercourt Village",
+    ""
+   ],
+   "lat": 43.670759,
+   "lng": -79.426477,
+   "phone": "(416) 531-2401",
+   "hours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.homehardware.ca/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.670759,-79.426477&destination_place_id=ChIJDz6ikfw1K4gRazLBQ0KeLb0",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ89J8xb00K4gRGLzZL3qCMAE",
+   "name": "Huron Playschool Co-op",
+   "category": "Childcare",
+   "note": "",
+   "address": "383 Huron St, Toronto, ON M5S 2G5",
+   "neighbourhood": "University",
+   "searchAreas": [
+    "University",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.66576,
+   "lng": -79.400836,
+   "phone": "(416) 977-1109",
+   "hours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.huronplayschool.com",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.66576,-79.400836&destination_place_id=ChIJ89J8xb00K4gRGLzZL3qCMAE",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJtTxJk8EzK4gRuoBa9wqE80Y",
+   "name": "Imperial Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "2775 Dufferin St, North York, ON M6B 3R6",
+   "neighbourhood": "Yorkdale-Glen Park",
+   "searchAreas": [
+    "Yorkdale-Glen Park",
+    "North York"
+   ],
+   "lat": 43.704404,
+   "lng": -79.451974,
+   "phone": "(416) 783-6119",
+   "hours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=14017",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.704404,-79.451974&destination_place_id=ChIJtTxJk8EzK4gRuoBa9wqE80Y",
    "lastChecked": "2026-10-23"
   },
   {
@@ -754,6 +2021,120 @@
    "lastChecked": "2026-10-23"
   },
   {
+   "id": "ChIJAzCPOo40K4gRTBn7FQkuBuc",
+   "name": "Karma Co-op",
+   "category": "Grocery & Food",
+   "note": "",
+   "address": "739 Palmerston Avenue, Karma Ln, Toronto, ON M6G 2R3",
+   "neighbourhood": "Annex",
+   "searchAreas": [
+    "Annex",
+    "The Annex",
+    ""
+   ],
+   "lat": 43.668147,
+   "lng": -79.414471,
+   "phone": "(416) 534-1470",
+   "hours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+   ],
+   "website": "https://karmacoop.org/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.668147,-79.414471&destination_place_id=ChIJAzCPOo40K4gRTBn7FQkuBuc",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJI4nqpPfL1IkRI-YnckljZ0A",
+   "name": "Kew Beach Day Care Co-operative",
+   "category": "Childcare",
+   "note": "",
+   "address": "101 Kippendavie Ave, Toronto, ON M4L 3R3",
+   "neighbourhood": "The Beaches",
+   "searchAreas": [
+    "The Beaches",
+    "The Beach",
+    "Beaches",
+    ""
+   ],
+   "lat": 43.668542,
+   "lng": -79.303057,
+   "phone": "(416) 698-6226",
+   "hours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://kewbeachdaycare.com",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.668542,-79.303057&destination_place_id=ChIJI4nqpPfL1IkRI-YnckljZ0A",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJCfCW8KvO1IkRMTBAcNbt3_g",
+   "name": "Lakeside Co-operative Playschool",
+   "category": "Childcare",
+   "note": "",
+   "address": "2226 Queen St E, Toronto, ON M4E 1E9",
+   "neighbourhood": "The Beaches",
+   "searchAreas": [
+    "The Beaches",
+    "The Beach",
+    "Beaches",
+    ""
+   ],
+   "lat": 43.672698,
+   "lng": -79.287974,
+   "phone": "(416) 524-5676",
+   "hours": [
+    "Monday: 8:00 AM – 5:45 PM",
+    "Tuesday: 8:00 AM – 5:45 PM",
+    "Wednesday: 8:00 AM – 5:45 PM",
+    "Thursday: 8:00 AM – 5:45 PM",
+    "Friday: 8:00 AM – 5:45 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.lakesidecoop.ca",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.672698,-79.287974&destination_place_id=ChIJCfCW8KvO1IkRMTBAcNbt3_g",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJq8XJtWwtK4gRFFVBYEbujtg",
+   "name": "Lansing Co-op Nursery School",
+   "category": "Childcare",
+   "note": "",
+   "address": "80 Church Ave, North York, ON M2N 4G1",
+   "neighbourhood": "East Willowdale",
+   "searchAreas": [
+    "East Willowdale",
+    "Willowdale",
+    "North York"
+   ],
+   "lat": 43.774849,
+   "lng": -79.409812,
+   "phone": "(416) 225-4581",
+   "hours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.lansingnursery.org/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.774849,-79.409812&destination_place_id=ChIJq8XJtWwtK4gRFFVBYEbujtg",
+   "lastChecked": "2026-10-23"
+  },
+  {
    "id": "ChIJq7GZYOUzK4gR1JIg8qqiN-0",
    "name": "Lighthouse Credit Union",
    "category": "Banking",
@@ -805,6 +2186,52 @@
    ],
    "website": "https://luminusfinancial.com/",
    "directions": "https://www.google.com/maps/dir/?api=1&destination=43.700214,-79.510885&destination_place_id=ChIJr_25ZNcwK4gRDWBqO5TGro8",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJhUHxuzPN1IkRht7gf6jDi5I",
+   "name": "Lunik Co-operative",
+   "category": "Grocery & Food",
+   "note": "",
+   "address": "2275 Bayview Ave, North York, ON M4N 3R4",
+   "neighbourhood": "Bridle Path-Sunnybrook-York Mills",
+   "searchAreas": [
+    "Bridle Path-Sunnybrook-York Mills",
+    "North York"
+   ],
+   "lat": 43.727739,
+   "lng": -79.376535,
+   "phone": "",
+   "hours": [],
+   "website": "https://lunikcoop.com",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.727739,-79.376535&destination_place_id=ChIJhUHxuzPN1IkRht7gf6jDi5I",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJgXYFTnk0K4gR6W-CwfH4CTE",
+   "name": "McMurrich Co-op Playschool",
+   "category": "Childcare",
+   "note": "",
+   "address": "115 Winona Dr, Toronto, ON M6G 3S8",
+   "neighbourhood": "Wychwood",
+   "searchAreas": [
+    "Wychwood",
+    ""
+   ],
+   "lat": 43.677935,
+   "lng": -79.430983,
+   "phone": "(416) 845-9032",
+   "hours": [
+    "Monday: 8:45 AM – 2:30 PM",
+    "Tuesday: 8:45 AM – 2:30 PM",
+    "Wednesday: 8:45 AM – 2:30 PM",
+    "Thursday: 8:45 AM – 2:30 PM",
+    "Friday: 8:45 AM – 2:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.mcmurrichplayschool.ca/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.677935,-79.430983&destination_place_id=ChIJgXYFTnk0K4gR6W-CwfH4CTE",
    "lastChecked": "2026-10-23"
   },
   {
@@ -1224,6 +2651,61 @@
    "lastChecked": "2026-10-23"
   },
   {
+   "id": "ChIJ98aj4uQwK4gRsXDens61bWw",
+   "name": "Metro Home Hardware Building Centre",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "1841 Wilson Ave, North York, ON M9M 1A2",
+   "neighbourhood": "Oakdale-Beverley Heights",
+   "searchAreas": [
+    "Oakdale-Beverley Heights",
+    "North York"
+   ],
+   "lat": 43.717292,
+   "lng": -79.523857,
+   "phone": "(416) 740-9131",
+   "hours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/store/12861?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=12861",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.717292,-79.523857&destination_place_id=ChIJ98aj4uQwK4gRsXDens61bWw",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJXZ2tlB42K4gRw79zxq20jns",
+   "name": "Mimico Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "2404 Lake Shore Blvd W, Etobicoke, ON M8V 1C4",
+   "neighbourhood": "Mimico-Queensway",
+   "searchAreas": [
+    "Mimico-Queensway",
+    "Mimico",
+    "Etobicoke"
+   ],
+   "lat": 43.614848,
+   "lng": -79.488921,
+   "phone": "(416) 259-5111",
+   "hours": [
+    "Monday: 9:00 AM – 6:30 PM",
+    "Tuesday: 9:00 AM – 6:30 PM",
+    "Wednesday: 9:00 AM – 6:30 PM",
+    "Thursday: 9:00 AM – 6:30 PM",
+    "Friday: 9:00 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 4:00 PM"
+   ],
+   "website": "https://www.homehardware.ca/store/14083?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=14083",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.614848,-79.488921&destination_place_id=ChIJXZ2tlB42K4gRw79zxq20jns",
+   "lastChecked": "2026-10-23"
+  },
+  {
    "id": "ChIJ9RRcohpIK4gRzr08jUWySQM",
    "name": "Moya Financial Credit Union",
    "category": "Banking",
@@ -1248,6 +2730,81 @@
    ],
    "website": "https://moyafinancial.ca",
    "directions": "https://www.google.com/maps/dir/?api=1&destination=43.608017,-79.547641&destination_place_id=ChIJ9RRcohpIK4gRzr08jUWySQM",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJA8i4oEo0K4gRa8pPTSzYe8o",
+   "name": "My School Co-operative Nursery",
+   "category": "Childcare",
+   "note": "",
+   "address": "116 Fermanagh Ave, Toronto, ON M6R 1M2",
+   "neighbourhood": "Roncesvalles",
+   "searchAreas": [
+    "Roncesvalles",
+    "Roncy",
+    ""
+   ],
+   "lat": 43.646733,
+   "lng": -79.447806,
+   "phone": "(416) 516-2397",
+   "hours": [
+    "Monday: 9:05 AM – 12:00 PM",
+    "Tuesday: 9:05 AM – 12:00 PM",
+    "Wednesday: 9:05 AM – 12:00 PM",
+    "Thursday: 9:05 AM – 12:00 PM",
+    "Friday: 9:05 AM – 12:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.myschoolcooperative.org/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.646733,-79.447806&destination_place_id=ChIJA8i4oEo0K4gRa8pPTSzYe8o",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ0_Sn13DL1IkRPW5dSsaP2qA",
+   "name": "Neill-Wycik Co-operative College",
+   "category": "Places to Stay",
+   "note": "",
+   "address": "96 Gerrard St E, Toronto, ON M5B 1G7",
+   "neighbourhood": "Downtown Yonge East",
+   "searchAreas": [
+    "Downtown Yonge East",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.660291,
+   "lng": -79.377353,
+   "phone": "(416) 430-6954",
+   "hours": [],
+   "website": "http://neill-wycik.coop/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.660291,-79.377353&destination_place_id=ChIJ0_Sn13DL1IkRPW5dSsaP2qA",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJnxAIIshJK4gRrCQGgX0SyYo",
+   "name": "New Toronto Nursery Co-op",
+   "category": "Childcare",
+   "note": "",
+   "address": "153 Lake Shore Dr, Etobicoke, ON M8V 2A1",
+   "neighbourhood": "New Toronto",
+   "searchAreas": [
+    "New Toronto",
+    "Etobicoke"
+   ],
+   "lat": 43.594498,
+   "lng": -79.505545,
+   "phone": "(647) 781-3032",
+   "hours": [
+    "Monday: 9:00 AM – 12:00 PM",
+    "Tuesday: 9:00 AM – 12:00 PM",
+    "Wednesday: 9:00 AM – 12:00 PM",
+    "Thursday: 9:00 AM – 12:00 PM",
+    "Friday: 9:00 AM – 12:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://www.learningonthelake.org",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.594498,-79.505545&destination_place_id=ChIJnxAIIshJK4gRrCQGgX0SyYo",
    "lastChecked": "2026-10-23"
   },
   {
@@ -1306,6 +2863,25 @@
    "lastChecked": "2026-10-23"
   },
   {
+   "id": "ChIJjWE9NiQ4K4gR0HfTTi6K2no",
+   "name": "Ontario Chinese Medicine and Acupuncture Co-operative",
+   "category": "Health & Wellness",
+   "note": "",
+   "address": "555 Burnhamthorpe Rd, Etobicoke, ON M9C 2Y3",
+   "neighbourhood": "Etobicoke West Mall",
+   "searchAreas": [
+    "Etobicoke West Mall",
+    "Etobicoke"
+   ],
+   "lat": 43.644867,
+   "lng": -79.567896,
+   "phone": "(416) 695-2132",
+   "hours": [],
+   "website": "",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.644867,-79.567896&destination_place_id=ChIJjWE9NiQ4K4gR0HfTTi6K2no",
+   "lastChecked": "2026-10-23"
+  },
+  {
    "id": "ChIJG03uo1Y2K4gRVVQAx1Fyp_Y",
    "name": "Parama Credit Union",
    "category": "Banking",
@@ -1359,1099 +2935,6 @@
    ],
    "website": "https://parama.ca",
    "directions": "https://www.google.com/maps/dir/?api=1&destination=43.655813,-79.454178&destination_place_id=ChIJ9-8jqDA0K4gRUKtvKkRrP8g",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJRx9vmMo1K4gRcZmzNAyI6bM",
-   "name": "St. Stanislaus - St. Casimir's Polish Parishes Credit Union",
-   "category": "Banking",
-   "note": "",
-   "address": "220 Roncesvalles Ave, Toronto, ON M6R 2L7",
-   "neighbourhood": "High Park-Swansea",
-   "searchAreas": [
-    "High Park-Swansea",
-    "High Park",
-    "Swansea",
-    ""
-   ],
-   "lat": 43.64473,
-   "lng": -79.448706,
-   "phone": "(416) 537-2181",
-   "hours": [
-    "Monday: 10:00 AM – 5:00 PM",
-    "Tuesday: 10:00 AM – 5:00 PM",
-    "Wednesday: 10:00 AM – 5:00 PM",
-    "Thursday: 12:00 – 7:00 PM",
-    "Friday: 10:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.polcu.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.64473,-79.448706&destination_place_id=ChIJRx9vmMo1K4gRcZmzNAyI6bM",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ1QUyAsxJK4gRxAcB2H7WQ6Q",
-   "name": "St. Stanislaus-St. Casimir's Polish Parishes Credit Union - Lakeshore",
-   "category": "Banking",
-   "note": "",
-   "address": "3055 Lake Shore Blvd W, Etobicoke, ON M8V 1K6",
-   "neighbourhood": "New Toronto",
-   "searchAreas": [
-    "New Toronto",
-    "Etobicoke"
-   ],
-   "lat": 43.599618,
-   "lng": -79.509934,
-   "phone": "(416) 503-9463",
-   "hours": [
-    "Monday: 10:00 AM – 5:00 PM",
-    "Tuesday: 10:00 AM – 5:00 PM",
-    "Wednesday: 10:00 AM – 5:00 PM",
-    "Thursday: 12:00 – 7:00 PM",
-    "Friday: 10:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.polcu.com",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.599618,-79.509934&destination_place_id=ChIJ1QUyAsxJK4gRxAcB2H7WQ6Q",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJWaGeAyw2K4gRi3EPfTF3RDQ",
-   "name": "Ukrainian Credit Union",
-   "category": "Banking",
-   "note": "",
-   "address": "145 Evans Ave., Etobicoke, ON M8Z 5X8",
-   "neighbourhood": "Mimico-Queensway",
-   "searchAreas": [
-    "Mimico-Queensway",
-    "Mimico",
-    "Etobicoke"
-   ],
-   "lat": 43.618315,
-   "lng": -79.509619,
-   "phone": "(416) 922-2797",
-   "hours": [
-    "Monday: 9:00 AM – 4:30 PM",
-    "Tuesday: 9:00 AM – 4:30 PM",
-    "Wednesday: 9:00 AM – 4:30 PM",
-    "Thursday: 9:00 AM – 4:30 PM",
-    "Friday: 9:00 AM – 4:30 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.ukrainiancu.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.618315,-79.509619&destination_place_id=ChIJWaGeAyw2K4gRi3EPfTF3RDQ",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJwTLwGYg2K4gRklrgm_GYTbs",
-   "name": "Ukrainian Credit Union - Bloor West",
-   "category": "Banking",
-   "note": "",
-   "address": "2397 Bloor St W, Toronto, ON M6S 1P6",
-   "neighbourhood": "High Park-Swansea",
-   "searchAreas": [
-    "High Park-Swansea",
-    "High Park",
-    "Swansea",
-    ""
-   ],
-   "lat": 43.64952,
-   "lng": -79.482666,
-   "phone": "(416) 762-6961",
-   "hours": [
-    "Monday: 9:30 AM – 5:00 PM",
-    "Tuesday: 9:30 AM – 5:00 PM",
-    "Wednesday: 9:30 AM – 5:00 PM",
-    "Thursday: 9:30 AM – 6:00 PM",
-    "Friday: 9:30 AM – 6:00 PM",
-    "Saturday: 9:30 AM – 1:00 PM",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.ukrainiancu.com",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.64952,-79.482666&destination_place_id=ChIJwTLwGYg2K4gRklrgm_GYTbs",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJe7As3PM3K4gR1DrBFoNSrY0",
-   "name": "Ukrainian Credit Union - Etobicoke",
-   "category": "Banking",
-   "note": "",
-   "address": "225 The East Mall, Etobicoke, ON M9B 0A9",
-   "neighbourhood": "Etobicoke City Centre",
-   "searchAreas": [
-    "Etobicoke City Centre",
-    "Etobicoke"
-   ],
-   "lat": 43.632374,
-   "lng": -79.552548,
-   "phone": "(416) 233-1254",
-   "hours": [
-    "Monday: 9:30 AM – 5:00 PM",
-    "Tuesday: 9:30 AM – 5:00 PM",
-    "Wednesday: 9:30 AM – 5:00 PM",
-    "Thursday: 9:30 AM – 6:00 PM",
-    "Friday: 9:30 AM – 6:00 PM",
-    "Saturday: 9:30 AM – 1:00 PM",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.ukrainiancu.com",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.632374,-79.552548&destination_place_id=ChIJe7As3PM3K4gR1DrBFoNSrY0",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJbX0pFR81K4gRWehVEFa5sxA",
-   "name": "Campus Community Co-op Day Care Centre",
-   "category": "Childcare",
-   "note": "",
-   "address": "370 Huron St, Toronto, ON M5S 2G4",
-   "neighbourhood": "University",
-   "searchAreas": [
-    "University",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.664512,
-   "lng": -79.400891,
-   "phone": "(416) 946-0875",
-   "hours": [
-    "Monday: 8:00 AM – 6:00 PM",
-    "Tuesday: 8:00 AM – 6:00 PM",
-    "Wednesday: 8:00 AM – 6:00 PM",
-    "Thursday: 8:00 AM – 6:00 PM",
-    "Friday: 8:00 AM – 6:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.campuscoopdaycare.ca",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.664512,-79.400891&destination_place_id=ChIJbX0pFR81K4gRWehVEFa5sxA",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ44zfypw2K4gRJzzI5GQ4Hmg",
-   "name": "Children's Creative Corner Co-op Nursery School",
-   "category": "Childcare",
-   "note": "",
-   "address": "Front entry, between both high schools, 125 Evelyn Crescent, Toronto, ON M6P 3E3",
-   "neighbourhood": "High Park North",
-   "searchAreas": [
-    "High Park North",
-    "High Park",
-    ""
-   ],
-   "lat": 43.656315,
-   "lng": -79.475132,
-   "phone": "(416) 769-4938",
-   "hours": [
-    "Monday: 9:00 AM – 2:00 PM",
-    "Tuesday: 9:00 AM – 2:00 PM",
-    "Wednesday: 9:00 AM – 2:00 PM",
-    "Thursday: 9:00 AM – 2:00 PM",
-    "Friday: 9:00 AM – 2:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://ccnurseryschool.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.656315,-79.475132&destination_place_id=ChIJ44zfypw2K4gRJzzI5GQ4Hmg",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJe9qkn4EyK4gRm2F9bjspvRg",
-   "name": "Glen Cameron For Kids Co-op Nursery School",
-   "category": "Childcare",
-   "note": "",
-   "address": "211 Cameron Ave, North York, ON M2N 1E8",
-   "neighbourhood": "Lansing-Westgate",
-   "searchAreas": [
-    "Lansing-Westgate",
-    "North York"
-   ],
-   "lat": 43.754385,
-   "lng": -79.421322,
-   "phone": "(416) 225-5788",
-   "hours": [
-    "Monday: 7:00 AM – 6:00 PM",
-    "Tuesday: 7:00 AM – 6:00 PM",
-    "Wednesday: 7:00 AM – 6:00 PM",
-    "Thursday: 7:00 AM – 6:00 PM",
-    "Friday: 7:00 AM – 6:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.glencameronforkids.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.754385,-79.421322&destination_place_id=ChIJe9qkn4EyK4gRm2F9bjspvRg",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ89J8xb00K4gRGLzZL3qCMAE",
-   "name": "Huron Playschool Co-op",
-   "category": "Childcare",
-   "note": "",
-   "address": "383 Huron St, Toronto, ON M5S 2G5",
-   "neighbourhood": "University",
-   "searchAreas": [
-    "University",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.66576,
-   "lng": -79.400836,
-   "phone": "(416) 977-1109",
-   "hours": [
-    "Monday: 9:00 AM – 6:00 PM",
-    "Tuesday: 9:00 AM – 6:00 PM",
-    "Wednesday: 9:00 AM – 6:00 PM",
-    "Thursday: 9:00 AM – 6:00 PM",
-    "Friday: 9:00 AM – 6:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.huronplayschool.com",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.66576,-79.400836&destination_place_id=ChIJ89J8xb00K4gRGLzZL3qCMAE",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJI4nqpPfL1IkRI-YnckljZ0A",
-   "name": "Kew Beach Day Care Co-operative",
-   "category": "Childcare",
-   "note": "",
-   "address": "101 Kippendavie Ave, Toronto, ON M4L 3R3",
-   "neighbourhood": "The Beaches",
-   "searchAreas": [
-    "The Beaches",
-    "The Beach",
-    "Beaches",
-    ""
-   ],
-   "lat": 43.668542,
-   "lng": -79.303057,
-   "phone": "(416) 698-6226",
-   "hours": [
-    "Monday: 7:30 AM – 6:00 PM",
-    "Tuesday: 7:30 AM – 6:00 PM",
-    "Wednesday: 7:30 AM – 6:00 PM",
-    "Thursday: 7:30 AM – 6:00 PM",
-    "Friday: 7:30 AM – 6:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://kewbeachdaycare.com",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.668542,-79.303057&destination_place_id=ChIJI4nqpPfL1IkRI-YnckljZ0A",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJCfCW8KvO1IkRMTBAcNbt3_g",
-   "name": "Lakeside Co-operative Playschool",
-   "category": "Childcare",
-   "note": "",
-   "address": "2226 Queen St E, Toronto, ON M4E 1E9",
-   "neighbourhood": "The Beaches",
-   "searchAreas": [
-    "The Beaches",
-    "The Beach",
-    "Beaches",
-    ""
-   ],
-   "lat": 43.672698,
-   "lng": -79.287974,
-   "phone": "(416) 524-5676",
-   "hours": [
-    "Monday: 8:00 AM – 5:45 PM",
-    "Tuesday: 8:00 AM – 5:45 PM",
-    "Wednesday: 8:00 AM – 5:45 PM",
-    "Thursday: 8:00 AM – 5:45 PM",
-    "Friday: 8:00 AM – 5:45 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.lakesidecoop.ca",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.672698,-79.287974&destination_place_id=ChIJCfCW8KvO1IkRMTBAcNbt3_g",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJq8XJtWwtK4gRFFVBYEbujtg",
-   "name": "Lansing Co-op Nursery School",
-   "category": "Childcare",
-   "note": "",
-   "address": "80 Church Ave, North York, ON M2N 4G1",
-   "neighbourhood": "East Willowdale",
-   "searchAreas": [
-    "East Willowdale",
-    "Willowdale",
-    "North York"
-   ],
-   "lat": 43.774849,
-   "lng": -79.409812,
-   "phone": "(416) 225-4581",
-   "hours": [
-    "Monday: 8:00 AM – 5:00 PM",
-    "Tuesday: 8:00 AM – 5:00 PM",
-    "Wednesday: 8:00 AM – 5:00 PM",
-    "Thursday: 8:00 AM – 5:00 PM",
-    "Friday: 8:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.lansingnursery.org/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.774849,-79.409812&destination_place_id=ChIJq8XJtWwtK4gRFFVBYEbujtg",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJgXYFTnk0K4gR6W-CwfH4CTE",
-   "name": "McMurrich Co-op Playschool",
-   "category": "Childcare",
-   "note": "",
-   "address": "115 Winona Dr, Toronto, ON M6G 3S8",
-   "neighbourhood": "Wychwood",
-   "searchAreas": [
-    "Wychwood",
-    ""
-   ],
-   "lat": 43.677935,
-   "lng": -79.430983,
-   "phone": "(416) 845-9032",
-   "hours": [
-    "Monday: 8:45 AM – 2:30 PM",
-    "Tuesday: 8:45 AM – 2:30 PM",
-    "Wednesday: 8:45 AM – 2:30 PM",
-    "Thursday: 8:45 AM – 2:30 PM",
-    "Friday: 8:45 AM – 2:30 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.mcmurrichplayschool.ca/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.677935,-79.430983&destination_place_id=ChIJgXYFTnk0K4gR6W-CwfH4CTE",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJA8i4oEo0K4gRa8pPTSzYe8o",
-   "name": "My School Co-operative Nursery",
-   "category": "Childcare",
-   "note": "",
-   "address": "116 Fermanagh Ave, Toronto, ON M6R 1M2",
-   "neighbourhood": "Roncesvalles",
-   "searchAreas": [
-    "Roncesvalles",
-    "Roncy",
-    ""
-   ],
-   "lat": 43.646733,
-   "lng": -79.447806,
-   "phone": "(416) 516-2397",
-   "hours": [
-    "Monday: 9:05 AM – 12:00 PM",
-    "Tuesday: 9:05 AM – 12:00 PM",
-    "Wednesday: 9:05 AM – 12:00 PM",
-    "Thursday: 9:05 AM – 12:00 PM",
-    "Friday: 9:05 AM – 12:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.myschoolcooperative.org/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.646733,-79.447806&destination_place_id=ChIJA8i4oEo0K4gRa8pPTSzYe8o",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJnxAIIshJK4gRrCQGgX0SyYo",
-   "name": "New Toronto Nursery Co-op",
-   "category": "Childcare",
-   "note": "",
-   "address": "153 Lake Shore Dr, Etobicoke, ON M8V 2A1",
-   "neighbourhood": "New Toronto",
-   "searchAreas": [
-    "New Toronto",
-    "Etobicoke"
-   ],
-   "lat": 43.594498,
-   "lng": -79.505545,
-   "phone": "(647) 781-3032",
-   "hours": [
-    "Monday: 9:00 AM – 12:00 PM",
-    "Tuesday: 9:00 AM – 12:00 PM",
-    "Wednesday: 9:00 AM – 12:00 PM",
-    "Thursday: 9:00 AM – 12:00 PM",
-    "Friday: 9:00 AM – 12:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.learningonthelake.org",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.594498,-79.505545&destination_place_id=ChIJnxAIIshJK4gRrCQGgX0SyYo",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJl4PXMTvL1IkRv-u8tyEhaCE",
-   "name": "St. Lawrence Co-operative Day Care",
-   "category": "Childcare",
-   "note": "",
-   "address": "2 Princess St, Toronto, ON M5A 4G6",
-   "neighbourhood": "St Lawrence-East Bayfront-The Islands",
-   "searchAreas": [
-    "St Lawrence-East Bayfront-The Islands",
-    "St. Lawrence",
-    "Distillery District",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.647828,
-   "lng": -79.365713,
-   "phone": "(416) 363-2067",
-   "hours": [
-    "Monday: 7:30 AM – 6:00 PM",
-    "Tuesday: 7:30 AM – 6:00 PM",
-    "Wednesday: 7:30 AM – 6:00 PM",
-    "Thursday: 7:30 AM – 6:00 PM",
-    "Friday: 7:30 AM – 6:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://stlawrencedaycare.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.647828,-79.365713&destination_place_id=ChIJl4PXMTvL1IkRv-u8tyEhaCE",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJhSEWzlE2K4gRCLHk2RA2Rak",
-   "name": "Sunnylea Co-op Nursery School",
-   "category": "Childcare",
-   "note": "",
-   "address": "86 Montgomery Rd, Etobicoke, ON M9A 3N5",
-   "neighbourhood": "Kingsway South",
-   "searchAreas": [
-    "Kingsway South",
-    "Etobicoke"
-   ],
-   "lat": 43.650503,
-   "lng": -79.522527,
-   "phone": "(416) 716-1258",
-   "hours": [
-    "Monday: 9:15 AM – 3:00 PM",
-    "Tuesday: 9:15 AM – 3:00 PM",
-    "Wednesday: 9:15 AM – 3:00 PM",
-    "Thursday: 9:15 AM – 3:00 PM",
-    "Friday: 9:15 AM – 3:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://sunnyleacoop.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.650503,-79.522527&destination_place_id=ChIJhSEWzlE2K4gRCLHk2RA2Rak",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJIW1bUyQuK4gREoJENCO4T-E",
-   "name": "The Early Learning Centre at York University",
-   "category": "Childcare",
-   "note": "",
-   "address": "90 Atkinson Rd, North York, ON M3J 2S5",
-   "neighbourhood": "York University Heights",
-   "searchAreas": [
-    "York University Heights",
-    "North York"
-   ],
-   "lat": 43.771376,
-   "lng": -79.501665,
-   "phone": "(416) 736-5190",
-   "hours": [
-    "Monday: 7:30 AM – 6:00 PM",
-    "Tuesday: 7:30 AM – 6:00 PM",
-    "Wednesday: 7:30 AM – 6:00 PM",
-    "Thursday: 7:30 AM – 6:00 PM",
-    "Friday: 7:30 AM – 6:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://daycare.info.yorku.ca",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.771376,-79.501665&destination_place_id=ChIJIW1bUyQuK4gREoJENCO4T-E",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJmfiJQ4Q2K4gRrvylP48Ze64",
-   "name": "Time for Play Co-op Nursery",
-   "category": "Childcare",
-   "note": "",
-   "address": "125 Evelyn Crescent, Toronto, ON M6P 3E8",
-   "neighbourhood": "High Park North",
-   "searchAreas": [
-    "High Park North",
-    "High Park",
-    ""
-   ],
-   "lat": 43.657104,
-   "lng": -79.474402,
-   "phone": "(416) 769-1550",
-   "hours": [
-    "Monday: 9:00 AM – 12:00 PM",
-    "Tuesday: 9:00 AM – 12:00 PM",
-    "Wednesday: 9:00 AM – 12:00 PM",
-    "Thursday: 9:00 AM – 12:00 PM",
-    "Friday: 9:00 AM – 12:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.timeforplay.ca",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.657104,-79.474402&destination_place_id=ChIJmfiJQ4Q2K4gRrvylP48Ze64",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJW1WKV2I2K4gR9bqs1cJ9NFQ",
-   "name": "Ukrainian Co-op Nursery School of Toronto",
-   "category": "Childcare",
-   "note": "",
-   "address": "516 The Kingsway, Etobicoke, ON M9A 3W6",
-   "neighbourhood": "Princess-Rosethorn",
-   "searchAreas": [
-    "Princess-Rosethorn",
-    "Etobicoke"
-   ],
-   "lat": 43.673432,
-   "lng": -79.548095,
-   "phone": "(416) 763-2922",
-   "hours": [
-    "Monday: 7:30 AM – 5:00 PM",
-    "Tuesday: 7:30 AM – 5:00 PM",
-    "Wednesday: 7:30 AM – 5:00 PM",
-    "Thursday: 7:30 AM – 5:00 PM",
-    "Friday: 7:30 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.svitlychka.ca/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.673432,-79.548095&destination_place_id=ChIJW1WKV2I2K4gR9bqs1cJ9NFQ",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJAQDwGEIwK4gRkfcg8yzrLm8",
-   "name": "Co-op Cabs",
-   "category": "Getting Around",
-   "note": "",
-   "address": "130 Rivalda Rd, North York, ON M9M 2M8",
-   "neighbourhood": "Humbermede",
-   "searchAreas": [
-    "Humbermede",
-    "North York"
-   ],
-   "lat": 43.743715,
-   "lng": -79.53659,
-   "phone": "(416) 504-2667",
-   "hours": [
-    "Monday: Open 24 hours",
-    "Tuesday: Open 24 hours",
-    "Wednesday: Open 24 hours",
-    "Thursday: Open 24 hours",
-    "Friday: Open 24 hours",
-    "Saturday: Open 24 hours",
-    "Sunday: Open 24 hours"
-   ],
-   "website": "https://co-opcabs.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.743715,-79.53659&destination_place_id=ChIJAQDwGEIwK4gRkfcg8yzrLm8",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJAzCPOo40K4gRTBn7FQkuBuc",
-   "name": "Karma Co-op",
-   "category": "Grocery & Food",
-   "note": "",
-   "address": "739 Palmerston Avenue, Karma Ln, Toronto, ON M6G 2R3",
-   "neighbourhood": "Annex",
-   "searchAreas": [
-    "Annex",
-    "The Annex",
-    ""
-   ],
-   "lat": 43.668147,
-   "lng": -79.414471,
-   "phone": "(416) 534-1470",
-   "hours": [
-    "Monday: 11:00 AM – 8:00 PM",
-    "Tuesday: 9:00 AM – 8:00 PM",
-    "Wednesday: 9:00 AM – 8:00 PM",
-    "Thursday: 9:00 AM – 8:00 PM",
-    "Friday: 9:00 AM – 8:00 PM",
-    "Saturday: 9:00 AM – 6:00 PM",
-    "Sunday: 10:00 AM – 6:00 PM"
-   ],
-   "website": "https://karmacoop.org/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.668147,-79.414471&destination_place_id=ChIJAzCPOo40K4gRTBn7FQkuBuc",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJhUHxuzPN1IkRht7gf6jDi5I",
-   "name": "Lunik Co-operative",
-   "category": "Grocery & Food",
-   "note": "",
-   "address": "2275 Bayview Ave, North York, ON M4N 3R4",
-   "neighbourhood": "Bridle Path-Sunnybrook-York Mills",
-   "searchAreas": [
-    "Bridle Path-Sunnybrook-York Mills",
-    "North York"
-   ],
-   "lat": 43.727739,
-   "lng": -79.376535,
-   "phone": "",
-   "hours": [],
-   "website": "https://lunikcoop.com",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.727739,-79.376535&destination_place_id=ChIJhUHxuzPN1IkRht7gf6jDi5I",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJk_N2hp7M1IkRG4E2hkaSjdo",
-   "name": "The Big Carrot",
-   "category": "Grocery & Food",
-   "note": "",
-   "address": "348 Danforth Ave, Toronto, ON M4K 1N8",
-   "neighbourhood": "Playter Estates-Danforth",
-   "searchAreas": [
-    "Playter Estates-Danforth",
-    "Greektown",
-    "The Danforth",
-    ""
-   ],
-   "lat": 43.677566,
-   "lng": -79.352866,
-   "phone": "(416) 466-2129",
-   "hours": [
-    "Monday: 9:00 AM – 9:00 PM",
-    "Tuesday: 9:00 AM – 9:00 PM",
-    "Wednesday: 9:00 AM – 9:00 PM",
-    "Thursday: 9:00 AM – 9:00 PM",
-    "Friday: 9:00 AM – 9:00 PM",
-    "Saturday: 9:00 AM – 8:00 PM",
-    "Sunday: 9:00 AM – 8:00 PM"
-   ],
-   "website": "https://thebigcarrot.ca",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.677566,-79.352866&destination_place_id=ChIJk_N2hp7M1IkRG4E2hkaSjdo",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ0YRGURvN1IkRp6oQAVnerus",
-   "name": "The Big Carrot",
-   "category": "Grocery & Food",
-   "note": "",
-   "address": "125 Southwood Dr, Toronto, ON M4E 0B8",
-   "neighbourhood": "The Beaches",
-   "searchAreas": [
-    "The Beaches",
-    "The Beach",
-    "Beaches",
-    ""
-   ],
-   "lat": 43.678736,
-   "lng": -79.297701,
-   "phone": "(416) 466-2129",
-   "hours": [
-    "Monday: 9:00 AM – 9:00 PM",
-    "Tuesday: 9:00 AM – 9:00 PM",
-    "Wednesday: 9:00 AM – 9:00 PM",
-    "Thursday: 9:00 AM – 9:00 PM",
-    "Friday: 9:00 AM – 9:00 PM",
-    "Saturday: 9:00 AM – 8:00 PM",
-    "Sunday: 9:00 AM – 8:00 PM"
-   ],
-   "website": "https://thebigcarrot.ca",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.678736,-79.297701&destination_place_id=ChIJ0YRGURvN1IkRp6oQAVnerus",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJKVPqlr80K4gR3xEne2AnvIo",
-   "name": "The Coffee Shed - New College",
-   "category": "Grocery & Food",
-   "note": "",
-   "address": "40 Willcocks St, Toronto, ON M5S 1C6",
-   "neighbourhood": "University",
-   "searchAreas": [
-    "University",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.661547,
-   "lng": -79.400879,
-   "phone": "(416) 946-0529",
-   "hours": [
-    "Monday: 7:00 AM – 10:00 PM",
-    "Tuesday: 7:00 AM – 10:00 PM",
-    "Wednesday: 7:00 AM – 10:00 PM",
-    "Thursday: 7:00 AM – 10:00 PM",
-    "Friday: 7:00 AM – 9:00 PM",
-    "Saturday: 8:00 AM – 9:00 PM",
-    "Sunday: 8:00 AM – 10:00 PM"
-   ],
-   "website": "https://commongroundco-op.ca/about-the-coffee-shed/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.661547,-79.400879&destination_place_id=ChIJKVPqlr80K4gR3xEne2AnvIo",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJcVZzelPL1IkRlWNoL23X8fo",
-   "name": "Counterpoint Co-op",
-   "category": "Health & Wellness",
-   "note": "",
-   "address": "920 Yonge St, Toronto, ON M4W 3C7",
-   "neighbourhood": "Annex",
-   "searchAreas": [
-    "Annex",
-    "The Annex",
-    ""
-   ],
-   "lat": 43.674096,
-   "lng": -79.38854,
-   "phone": "(416) 920-0268",
-   "hours": [
-    "Monday: 10:00 AM – 5:00 PM",
-    "Tuesday: 10:00 AM – 5:00 PM",
-    "Wednesday: 10:00 AM – 5:00 PM",
-    "Thursday: 10:00 AM – 5:00 PM",
-    "Friday: 10:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://counterpoint.coop/coop-wpv3/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.674096,-79.38854&destination_place_id=ChIJcVZzelPL1IkRlWNoL23X8fo",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJjWE9NiQ4K4gR0HfTTi6K2no",
-   "name": "Ontario Chinese Medicine and Acupuncture Co-operative",
-   "category": "Health & Wellness",
-   "note": "",
-   "address": "555 Burnhamthorpe Rd, Etobicoke, ON M9C 2Y3",
-   "neighbourhood": "Etobicoke West Mall",
-   "searchAreas": [
-    "Etobicoke West Mall",
-    "Etobicoke"
-   ],
-   "lat": 43.644867,
-   "lng": -79.567896,
-   "phone": "(416) 695-2132",
-   "hours": [],
-   "website": "",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.644867,-79.567896&destination_place_id=ChIJjWE9NiQ4K4gR0HfTTi6K2no",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJN5-0tF8xK4gRU6tXHD35pjE",
-   "name": "Air Treatment ClimateCare",
-   "category": "Home & Hardware",
-   "note": "Local contractor; ClimateCare is a co-op of independent contractors",
-   "address": "20 Densley Ave, North York, ON M6M 2R1",
-   "neighbourhood": "Brookhaven-Amesbury",
-   "searchAreas": [
-    "Brookhaven-Amesbury",
-    "North York"
-   ],
-   "lat": 43.70377,
-   "lng": -79.47497,
-   "phone": "(416) 235-0373",
-   "hours": [
-    "Monday: 8:00 AM – 5:00 PM",
-    "Tuesday: 8:00 AM – 5:00 PM",
-    "Wednesday: 8:00 AM – 5:00 PM",
-    "Thursday: 8:00 AM – 5:00 PM",
-    "Friday: 8:00 AM – 4:30 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.airtreatment.net/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.70377,-79.47497&destination_place_id=ChIJN5-0tF8xK4gRU6tXHD35pjE",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJNTXI_I02K4gRK25kdUMSwZU",
-   "name": "Baby Point Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "777 Annette St, Toronto, ON M6S 2E4",
-   "neighbourhood": "Runnymede-Bloor West Village",
-   "searchAreas": [
-    "Runnymede-Bloor West Village",
-    "Bloor West Village",
-    ""
-   ],
-   "lat": 43.658293,
-   "lng": -79.487544,
-   "phone": "(416) 769-7774",
-   "hours": [
-    "Monday: 8:00 AM – 7:00 PM",
-    "Tuesday: 8:00 AM – 7:00 PM",
-    "Wednesday: 8:00 AM – 7:00 PM",
-    "Thursday: 8:00 AM – 7:00 PM",
-    "Friday: 8:00 AM – 7:00 PM",
-    "Saturday: 9:00 AM – 6:00 PM",
-    "Sunday: 11:00 AM – 4:00 PM"
-   ],
-   "website": "http://babypointhardware.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.658293,-79.487544&destination_place_id=ChIJNTXI_I02K4gRK25kdUMSwZU",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ41VtI23S1IkR76_BFqCZ4_o",
-   "name": "Bailey's Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "85 Ellesmere Rd, Scarborough, ON M1R 4B7",
-   "neighbourhood": "Wexford/Maryvale",
-   "searchAreas": [
-    "Wexford/Maryvale",
-    "Scarborough"
-   ],
-   "lat": 43.757237,
-   "lng": -79.312082,
-   "phone": "(416) 444-6629",
-   "hours": [
-    "Monday: 9:00 AM – 9:00 PM",
-    "Tuesday: 9:00 AM – 9:00 PM",
-    "Wednesday: 9:00 AM – 9:00 PM",
-    "Thursday: 9:00 AM – 9:00 PM",
-    "Friday: 9:00 AM – 9:00 PM",
-    "Saturday: 9:00 AM – 6:00 PM",
-    "Sunday: 12:00 – 5:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/store/12340?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=12340",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.757237,-79.312082&destination_place_id=ChIJ41VtI23S1IkR76_BFqCZ4_o",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJPSD0rvY3K4gRnpN7frMamW0",
-   "name": "Cloverdale Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "250 The East Mall Unit 249, Etobicoke, ON M9B 3Y8",
-   "neighbourhood": "Etobicoke City Centre",
-   "searchAreas": [
-    "Etobicoke City Centre",
-    "Etobicoke"
-   ],
-   "lat": 43.631075,
-   "lng": -79.55569,
-   "phone": "(416) 234-0601",
-   "hours": [
-    "Monday: 10:00 AM – 8:00 PM",
-    "Tuesday: 10:00 AM – 8:00 PM",
-    "Wednesday: 10:00 AM – 8:00 PM",
-    "Thursday: 10:00 AM – 8:00 PM",
-    "Friday: 10:00 AM – 8:00 PM",
-    "Saturday: 10:00 AM – 6:00 PM",
-    "Sunday: 11:00 AM – 5:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/store/13469?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=13469",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.631075,-79.55569&destination_place_id=ChIJPSD0rvY3K4gRnpN7frMamW0",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ3yyiz8E0K4gRQ1Q9QeYT1c0",
-   "name": "College Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "290 College St, Toronto, ON M5T 1S2",
-   "neighbourhood": "University",
-   "searchAreas": [
-    "University",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.657883,
-   "lng": -79.401366,
-   "phone": "(416) 922-1158",
-   "hours": [
-    "Monday: 9:00 AM – 6:00 PM",
-    "Tuesday: 9:00 AM – 6:00 PM",
-    "Wednesday: 9:00 AM – 6:00 PM",
-    "Thursday: 9:00 AM – 6:00 PM",
-    "Friday: 9:00 AM – 6:00 PM",
-    "Saturday: 10:00 AM – 6:00 PM",
-    "Sunday: 10:00 AM – 6:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/store/13817?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=13817",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.657883,-79.401366&destination_place_id=ChIJ3yyiz8E0K4gRQ1Q9QeYT1c0",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJnWywffQyK4gRnPZxdmXzzQ4",
-   "name": "Dickson Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "2028 Avenue Rd, North York, ON M5M 4A4",
-   "neighbourhood": "Bedford Park-Nortown",
-   "searchAreas": [
-    "Bedford Park-Nortown",
-    "North York"
-   ],
-   "lat": 43.735638,
-   "lng": -79.420251,
-   "phone": "(416) 487-4029",
-   "hours": [
-    "Monday: 9:00 AM – 8:00 PM",
-    "Tuesday: 9:00 AM – 8:00 PM",
-    "Wednesday: 9:00 AM – 8:00 PM",
-    "Thursday: 9:00 AM – 8:00 PM",
-    "Friday: 9:00 AM – 8:00 PM",
-    "Saturday: 9:00 AM – 6:00 PM",
-    "Sunday: 10:00 AM – 5:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/en/store/19083?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=19083",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.735638,-79.420251&destination_place_id=ChIJnWywffQyK4gRnPZxdmXzzQ4",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJv8CKTfk0K4gRPCmo7U7g_nw",
-   "name": "Downtown Lumber Home Building Centre",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "9 Morrow Ave, Toronto, ON M6R 2H9",
-   "neighbourhood": "Roncesvalles",
-   "searchAreas": [
-    "Roncesvalles",
-    "Roncy",
-    ""
-   ],
-   "lat": 43.652328,
-   "lng": -79.446699,
-   "phone": "(416) 532-4356",
-   "hours": [
-    "Monday: 7:00 AM – 6:00 PM",
-    "Tuesday: 7:00 AM – 6:00 PM",
-    "Wednesday: 7:00 AM – 6:00 PM",
-    "Thursday: 7:00 AM – 6:00 PM",
-    "Friday: 7:00 AM – 6:00 PM",
-    "Saturday: 7:00 AM – 5:00 PM",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.homehardware.ca/en/store/13079?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=13079",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.652328,-79.446699&destination_place_id=ChIJv8CKTfk0K4gRPCmo7U7g_nw",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJZ2Fj330zK4gRSYOwkHtFBa0",
-   "name": "Hillcrest Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "60 Vaughan Rd, Toronto, ON M6G 2N4",
-   "neighbourhood": "Wychwood",
-   "searchAreas": [
-    "Wychwood",
-    ""
-   ],
-   "lat": 43.682427,
-   "lng": -79.419857,
-   "phone": "(416) 656-9700",
-   "hours": [
-    "Monday: 9:00 AM – 6:00 PM",
-    "Tuesday: 9:00 AM – 6:00 PM",
-    "Wednesday: 9:00 AM – 6:00 PM",
-    "Thursday: 9:00 AM – 6:00 PM",
-    "Friday: 9:00 AM – 6:00 PM",
-    "Saturday: 9:00 AM – 5:00 PM",
-    "Sunday: 10:00 AM – 3:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/en/store/15827?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=15827",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.682427,-79.419857&destination_place_id=ChIJZ2Fj330zK4gRSYOwkHtFBa0",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJDz6ikfw1K4gRazLBQ0KeLb0",
-   "name": "Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "828 Dupont St, Toronto, ON M6G 1Z6",
-   "neighbourhood": "Dovercourt Village",
-   "searchAreas": [
-    "Dovercourt Village",
-    ""
-   ],
-   "lat": 43.670759,
-   "lng": -79.426477,
-   "phone": "(416) 531-2401",
-   "hours": [
-    "Monday: 7:00 AM – 6:00 PM",
-    "Tuesday: 7:00 AM – 6:00 PM",
-    "Wednesday: 7:00 AM – 6:00 PM",
-    "Thursday: 7:00 AM – 6:00 PM",
-    "Friday: 7:00 AM – 6:00 PM",
-    "Saturday: 7:00 AM – 6:00 PM",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.homehardware.ca/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.670759,-79.426477&destination_place_id=ChIJDz6ikfw1K4gRazLBQ0KeLb0",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJtTxJk8EzK4gRuoBa9wqE80Y",
-   "name": "Imperial Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "2775 Dufferin St, North York, ON M6B 3R6",
-   "neighbourhood": "Yorkdale-Glen Park",
-   "searchAreas": [
-    "Yorkdale-Glen Park",
-    "North York"
-   ],
-   "lat": 43.704404,
-   "lng": -79.451974,
-   "phone": "(416) 783-6119",
-   "hours": [
-    "Monday: 8:00 AM – 6:00 PM",
-    "Tuesday: 8:00 AM – 6:00 PM",
-    "Wednesday: 8:00 AM – 6:00 PM",
-    "Thursday: 8:00 AM – 6:00 PM",
-    "Friday: 8:00 AM – 6:00 PM",
-    "Saturday: 8:00 AM – 5:00 PM",
-    "Sunday: 10:00 AM – 5:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=14017",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.704404,-79.451974&destination_place_id=ChIJtTxJk8EzK4gRuoBa9wqE80Y",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ98aj4uQwK4gRsXDens61bWw",
-   "name": "Metro Home Hardware Building Centre",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "1841 Wilson Ave, North York, ON M9M 1A2",
-   "neighbourhood": "Oakdale-Beverley Heights",
-   "searchAreas": [
-    "Oakdale-Beverley Heights",
-    "North York"
-   ],
-   "lat": 43.717292,
-   "lng": -79.523857,
-   "phone": "(416) 740-9131",
-   "hours": [
-    "Monday: 8:00 AM – 6:00 PM",
-    "Tuesday: 8:00 AM – 6:00 PM",
-    "Wednesday: 8:00 AM – 6:00 PM",
-    "Thursday: 8:00 AM – 6:00 PM",
-    "Friday: 8:00 AM – 6:00 PM",
-    "Saturday: 8:00 AM – 6:00 PM",
-    "Sunday: 9:00 AM – 4:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/store/12861?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=12861",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.717292,-79.523857&destination_place_id=ChIJ98aj4uQwK4gRsXDens61bWw",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJXZ2tlB42K4gRw79zxq20jns",
-   "name": "Mimico Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "2404 Lake Shore Blvd W, Etobicoke, ON M8V 1C4",
-   "neighbourhood": "Mimico-Queensway",
-   "searchAreas": [
-    "Mimico-Queensway",
-    "Mimico",
-    "Etobicoke"
-   ],
-   "lat": 43.614848,
-   "lng": -79.488921,
-   "phone": "(416) 259-5111",
-   "hours": [
-    "Monday: 9:00 AM – 6:30 PM",
-    "Tuesday: 9:00 AM – 6:30 PM",
-    "Wednesday: 9:00 AM – 6:30 PM",
-    "Thursday: 9:00 AM – 6:30 PM",
-    "Friday: 9:00 AM – 6:30 PM",
-    "Saturday: 9:00 AM – 6:00 PM",
-    "Sunday: 11:00 AM – 4:00 PM"
-   ],
-   "website": "https://www.homehardware.ca/store/14083?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=14083",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.614848,-79.488921&destination_place_id=ChIJXZ2tlB42K4gRw79zxq20jns",
    "lastChecked": "2026-10-23"
   },
   {
@@ -2593,6 +3076,289 @@
    "lastChecked": "2026-10-23"
   },
   {
+   "id": "ChIJl4PXMTvL1IkRv-u8tyEhaCE",
+   "name": "St. Lawrence Co-operative Day Care",
+   "category": "Childcare",
+   "note": "",
+   "address": "2 Princess St, Toronto, ON M5A 4G6",
+   "neighbourhood": "St Lawrence-East Bayfront-The Islands",
+   "searchAreas": [
+    "St Lawrence-East Bayfront-The Islands",
+    "St. Lawrence",
+    "Distillery District",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.647828,
+   "lng": -79.365713,
+   "phone": "(416) 363-2067",
+   "hours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://stlawrencedaycare.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.647828,-79.365713&destination_place_id=ChIJl4PXMTvL1IkRv-u8tyEhaCE",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJRx9vmMo1K4gRcZmzNAyI6bM",
+   "name": "St. Stanislaus - St. Casimir's Polish Parishes Credit Union",
+   "category": "Banking",
+   "note": "",
+   "address": "220 Roncesvalles Ave, Toronto, ON M6R 2L7",
+   "neighbourhood": "High Park-Swansea",
+   "searchAreas": [
+    "High Park-Swansea",
+    "High Park",
+    "Swansea",
+    ""
+   ],
+   "lat": 43.64473,
+   "lng": -79.448706,
+   "phone": "(416) 537-2181",
+   "hours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.polcu.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.64473,-79.448706&destination_place_id=ChIJRx9vmMo1K4gRcZmzNAyI6bM",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ1QUyAsxJK4gRxAcB2H7WQ6Q",
+   "name": "St. Stanislaus-St. Casimir's Polish Parishes Credit Union - Lakeshore",
+   "category": "Banking",
+   "note": "",
+   "address": "3055 Lake Shore Blvd W, Etobicoke, ON M8V 1K6",
+   "neighbourhood": "New Toronto",
+   "searchAreas": [
+    "New Toronto",
+    "Etobicoke"
+   ],
+   "lat": 43.599618,
+   "lng": -79.509934,
+   "phone": "(416) 503-9463",
+   "hours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.polcu.com",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.599618,-79.509934&destination_place_id=ChIJ1QUyAsxJK4gRxAcB2H7WQ6Q",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJhSEWzlE2K4gRCLHk2RA2Rak",
+   "name": "Sunnylea Co-op Nursery School",
+   "category": "Childcare",
+   "note": "",
+   "address": "86 Montgomery Rd, Etobicoke, ON M9A 3N5",
+   "neighbourhood": "Kingsway South",
+   "searchAreas": [
+    "Kingsway South",
+    "Etobicoke"
+   ],
+   "lat": 43.650503,
+   "lng": -79.522527,
+   "phone": "(416) 716-1258",
+   "hours": [
+    "Monday: 9:15 AM – 3:00 PM",
+    "Tuesday: 9:15 AM – 3:00 PM",
+    "Wednesday: 9:15 AM – 3:00 PM",
+    "Thursday: 9:15 AM – 3:00 PM",
+    "Friday: 9:15 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://sunnyleacoop.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.650503,-79.522527&destination_place_id=ChIJhSEWzlE2K4gRCLHk2RA2Rak",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJ0YRGURvN1IkRp6oQAVnerus",
+   "name": "The Big Carrot",
+   "category": "Grocery & Food",
+   "note": "",
+   "address": "125 Southwood Dr, Toronto, ON M4E 0B8",
+   "neighbourhood": "The Beaches",
+   "searchAreas": [
+    "The Beaches",
+    "The Beach",
+    "Beaches",
+    ""
+   ],
+   "lat": 43.678736,
+   "lng": -79.297701,
+   "phone": "(416) 466-2129",
+   "hours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+   ],
+   "website": "https://thebigcarrot.ca",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.678736,-79.297701&destination_place_id=ChIJ0YRGURvN1IkRp6oQAVnerus",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJk_N2hp7M1IkRG4E2hkaSjdo",
+   "name": "The Big Carrot",
+   "category": "Grocery & Food",
+   "note": "",
+   "address": "348 Danforth Ave, Toronto, ON M4K 1N8",
+   "neighbourhood": "Playter Estates-Danforth",
+   "searchAreas": [
+    "Playter Estates-Danforth",
+    "Greektown",
+    "The Danforth",
+    ""
+   ],
+   "lat": 43.677566,
+   "lng": -79.352866,
+   "phone": "(416) 466-2129",
+   "hours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+   ],
+   "website": "https://thebigcarrot.ca",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.677566,-79.352866&destination_place_id=ChIJk_N2hp7M1IkRG4E2hkaSjdo",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJKVPqlr80K4gR3xEne2AnvIo",
+   "name": "The Coffee Shed - New College",
+   "category": "Grocery & Food",
+   "note": "",
+   "address": "40 Willcocks St, Toronto, ON M5S 1C6",
+   "neighbourhood": "University",
+   "searchAreas": [
+    "University",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.661547,
+   "lng": -79.400879,
+   "phone": "(416) 946-0529",
+   "hours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+   ],
+   "website": "https://commongroundco-op.ca/about-the-coffee-shed/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.661547,-79.400879&destination_place_id=ChIJKVPqlr80K4gR3xEne2AnvIo",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJIW1bUyQuK4gREoJENCO4T-E",
+   "name": "The Early Learning Centre at York University",
+   "category": "Childcare",
+   "note": "",
+   "address": "90 Atkinson Rd, North York, ON M3J 2S5",
+   "neighbourhood": "York University Heights",
+   "searchAreas": [
+    "York University Heights",
+    "North York"
+   ],
+   "lat": 43.771376,
+   "lng": -79.501665,
+   "phone": "(416) 736-5190",
+   "hours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "http://daycare.info.yorku.ca",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.771376,-79.501665&destination_place_id=ChIJIW1bUyQuK4gREoJENCO4T-E",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJvWoHrNs0K4gRP9NXd05InGU",
+   "name": "The Red Head Gallery",
+   "category": "Arts & Culture",
+   "note": "",
+   "address": "401 Richmond St W, Toronto, ON M5V 3A8",
+   "neighbourhood": "Wellington Place",
+   "searchAreas": [
+    "Wellington Place",
+    "Entertainment District",
+    "Downtown",
+    ""
+   ],
+   "lat": 43.647756,
+   "lng": -79.394471,
+   "phone": "(416) 504-5654",
+   "hours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 5:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 5:00 PM",
+    "Saturday: 12:00 – 5:00 PM",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.redheadgallery.org/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.647756,-79.394471&destination_place_id=ChIJvWoHrNs0K4gRP9NXd05InGU",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJmfiJQ4Q2K4gRrvylP48Ze64",
+   "name": "Time for Play Co-op Nursery",
+   "category": "Childcare",
+   "note": "",
+   "address": "125 Evelyn Crescent, Toronto, ON M6P 3E8",
+   "neighbourhood": "High Park North",
+   "searchAreas": [
+    "High Park North",
+    "High Park",
+    ""
+   ],
+   "lat": 43.657104,
+   "lng": -79.474402,
+   "phone": "(416) 769-1550",
+   "hours": [
+    "Monday: 9:00 AM – 12:00 PM",
+    "Tuesday: 9:00 AM – 12:00 PM",
+    "Wednesday: 9:00 AM – 12:00 PM",
+    "Thursday: 9:00 AM – 12:00 PM",
+    "Friday: 9:00 AM – 12:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.timeforplay.ca",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.657104,-79.474402&destination_place_id=ChIJmfiJQ4Q2K4gRrvylP48Ze64",
+   "lastChecked": "2026-10-23"
+  },
+  {
    "id": "ChIJifSOswHM1IkRcjEtvSc6JgM",
    "name": "Toronto Beaches Home Hardware",
    "category": "Home & Hardware",
@@ -2649,908 +3415,114 @@
    "lastChecked": "2026-10-23"
   },
   {
-   "id": "ChIJU6csAJQ0K4gRtCt3NA7q4zE",
-   "name": "Wiener's Home Hardware",
-   "category": "Home & Hardware",
-   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
-   "address": "432 Bloor St W, Toronto, ON M5S 1X5",
-   "neighbourhood": "Annex",
-   "searchAreas": [
-    "Annex",
-    "The Annex",
-    ""
-   ],
-   "lat": 43.665912,
-   "lng": -79.408404,
-   "phone": "(416) 922-7043",
-   "hours": [
-    "Monday: 9:00 AM – 6:00 PM",
-    "Tuesday: 9:00 AM – 6:00 PM",
-    "Wednesday: 9:00 AM – 6:00 PM",
-    "Thursday: 9:00 AM – 6:00 PM",
-    "Friday: 9:00 AM – 6:00 PM",
-    "Saturday: 9:00 AM – 6:00 PM",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.homehardware.ca/en/store/12691?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=12691",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.665912,-79.408404&destination_place_id=ChIJU6csAJQ0K4gRtCt3NA7q4zE",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJvQP8RkDV1IkRFljutROmSfY",
-   "name": "Co-Operators - JW Insurance",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "633 Silver Star Blvd F1, Scarborough, ON M1V 5N1",
-   "neighbourhood": "Milliken",
-   "searchAreas": [
-    "Milliken",
-    "Scarborough"
-   ],
-   "lat": 43.821778,
-   "lng": -79.298433,
-   "phone": "(416) 385-1888",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/jw-insurance?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.821778,-79.298433&destination_place_id=ChIJvQP8RkDV1IkRFljutROmSfY",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJo_q_KFk3K4gR1bzztpQTofk",
-   "name": "Co-operators",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "2440 Bloor St W 2nd Floor, Toronto, ON M6S 1P9",
-   "neighbourhood": "Runnymede-Bloor West Village",
-   "searchAreas": [
-    "Runnymede-Bloor West Village",
-    "Bloor West Village",
-    ""
-   ],
-   "lat": 43.64958,
-   "lng": -79.484384,
-   "phone": "(416) 604-1357",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/bloor-toronto/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.64958,-79.484384&destination_place_id=ChIJo_q_KFk3K4gR1bzztpQTofk",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJWRuf1c40K4gR8Wq--od-MTY",
-   "name": "Co-operators",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "1820 Bayview Ave Unit E, Toronto, ON M4G 4G7",
-   "neighbourhood": "Mount Pleasant East",
-   "searchAreas": [
-    "Mount Pleasant East",
-    ""
-   ],
-   "lat": 43.712833,
-   "lng": -79.377674,
-   "phone": "(416) 256-2667",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/vuslat-muge-aydin/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.712833,-79.377674&destination_place_id=ChIJWRuf1c40K4gR8Wq--od-MTY",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJb1AiJ3HR1IkRsCuyretChBg",
-   "name": "Co-operators",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "8 Glen Watford Dr Unit G33-36, Scarborough, ON M1S 2B9",
-   "neighbourhood": "Agincourt South-Malvern West",
-   "searchAreas": [
-    "Agincourt South-Malvern West",
-    "Scarborough"
-   ],
-   "lat": 43.786933,
-   "lng": -79.276272,
-   "phone": "(416) 332-1833",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/kenny-leong?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.786933,-79.276272&destination_place_id=ChIJb1AiJ3HR1IkRsCuyretChBg",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ24KqQIvb1IkRm8TyTQFZc6I",
-   "name": "Co-operators",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "91 Rylander Blvd Unit 209, Scarborough, ON M1B 5M5",
-   "neighbourhood": "West Rouge",
-   "searchAreas": [
-    "West Rouge",
-    "Scarborough"
-   ],
-   "lat": 43.796974,
-   "lng": -79.151688,
-   "phone": "(416) 724-7332",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/shant-hallajian/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796974,-79.151688&destination_place_id=ChIJ24KqQIvb1IkRm8TyTQFZc6I",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJx21cqcDT1IkRuYCGMDeJ9tU",
-   "name": "Co-operators",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "2677 Kennedy Rd #28, Scarborough, ON M1T 3H8",
-   "neighbourhood": "East L'Amoreaux",
-   "searchAreas": [
-    "East L'Amoreaux",
-    "Scarborough"
-   ],
-   "lat": 43.796338,
-   "lng": -79.293127,
-   "phone": "(416) 498-8383",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/kennedy-scarborough/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796338,-79.293127&destination_place_id=ChIJx21cqcDT1IkRuYCGMDeJ9tU",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJkTLyRKDS1IkRSFGGVOKRbYE",
-   "name": "Co-operators",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "1500 Don Mills Rd. Ste 707, North York, ON M3B 3K4",
-   "neighbourhood": "Banbury-Don Mills",
-   "searchAreas": [
-    "Banbury-Don Mills",
-    "Don Mills",
-    "North York"
-   ],
-   "lat": 43.755037,
-   "lng": -79.347704,
-   "phone": "(416) 383-1600",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.cooperators.ca/local/donmills-toronto?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.755037,-79.347704&destination_place_id=ChIJkTLyRKDS1IkRSFGGVOKRbYE",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJTyw64eHP1IkRpwlSO2xPJjM",
-   "name": "Co-operators - ARC Insurance & Financial Services Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "3473 Kingston Rd, Scarborough, ON M1M 1R4",
-   "neighbourhood": "Scarborough Village",
-   "searchAreas": [
-    "Scarborough Village",
-    "Scarborough"
-   ],
-   "lat": 43.737495,
-   "lng": -79.217425,
-   "phone": "(416) 264-5858",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/arc-insurance-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.737495,-79.217425&destination_place_id=ChIJTyw64eHP1IkRpwlSO2xPJjM",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJs1Ft0sLR1IkRTYuaH2wA0s4",
-   "name": "Co-operators - Amy Wang Insurance & Investment Inc.",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "2677 Kennedy Rd #28, Scarborough, ON M1T 3H8",
-   "neighbourhood": "East L'Amoreaux",
-   "searchAreas": [
-    "East L'Amoreaux",
-    "Scarborough"
-   ],
-   "lat": 43.796338,
-   "lng": -79.293128,
-   "phone": "(416) 288-1808",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/amy-wang-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796338,-79.293128&destination_place_id=ChIJs1Ft0sLR1IkRTYuaH2wA0s4",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJpSim5e_T1IkRfYjGjBE8kKM",
-   "name": "Co-operators - Andy Chow & Associates Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "1883 McNicoll Ave #21, Scarborough, ON M1V 5M3",
-   "neighbourhood": "Steeles",
-   "searchAreas": [
-    "Steeles",
-    "Scarborough"
-   ],
-   "lat": 43.81173,
-   "lng": -79.302055,
-   "phone": "(416) 293-3332",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/andy-chow-associates/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.81173,-79.302055&destination_place_id=ChIJpSim5e_T1IkRfYjGjBE8kKM",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ9-vd8jA2K4gRD6n-FsQiuMc",
-   "name": "Co-operators - Angela Rolo Insurance Services Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "781 The Queensway Unit E, Etobicoke, ON M8Z 6A8",
-   "neighbourhood": "Stonegate-Queensway",
-   "searchAreas": [
-    "Stonegate-Queensway",
-    "Etobicoke"
-   ],
-   "lat": 43.625351,
-   "lng": -79.505686,
-   "phone": "(416) 252-3436",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/angela-rolo-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.625351,-79.505686&destination_place_id=ChIJ9-vd8jA2K4gRD6n-FsQiuMc",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ7dliHk8tK4gR4xsZSyIEUdk",
-   "name": "Co-operators - Anthony Yu & Associates Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "500 Sheppard Ave E Ste 308, North York, ON M2N 6H7",
-   "neighbourhood": "East Willowdale",
-   "searchAreas": [
-    "East Willowdale",
-    "Willowdale",
-    "North York"
-   ],
-   "lat": 43.76688,
-   "lng": -79.388878,
-   "phone": "(416) 223-2667",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/anthony-yu-associates/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.76688,-79.388878&destination_place_id=ChIJ7dliHk8tK4gR4xsZSyIEUdk",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJl02Uol_R1IkRIg9TnSasLmk",
-   "name": "Co-operators - Cao Insurance & Investments Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "2677 Kennedy Rd #28, Scarborough, ON M1T 3H8",
-   "neighbourhood": "East L'Amoreaux",
-   "searchAreas": [
-    "East L'Amoreaux",
-    "Scarborough"
-   ],
-   "lat": 43.796338,
-   "lng": -79.293128,
-   "phone": "(416) 332-0332",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/cao-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796338,-79.293128&destination_place_id=ChIJl02Uol_R1IkRIg9TnSasLmk",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJPQT0AegyK4gRs6pYDHnGYX8",
-   "name": "Co-operators - Delvand Insurance Agency Ltd",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "3164 Yonge St, Toronto, ON M4N 2K6",
-   "neighbourhood": "Lawrence Park North",
-   "searchAreas": [
-    "Lawrence Park North",
-    ""
-   ],
-   "lat": 43.727276,
-   "lng": -79.403048,
-   "phone": "(416) 544-8100",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/delvand-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.727276,-79.403048&destination_place_id=ChIJPQT0AegyK4gRs6pYDHnGYX8",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJkYjjtswwK4gRx3u3QDLuVzg",
-   "name": "Co-operators - Frank Vaccaro Insurance Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "1500 Royal York Rd, Etobicoke, ON M9P 3B6",
-   "neighbourhood": "Willowridge-Martingrove-Richview",
-   "searchAreas": [
-    "Willowridge-Martingrove-Richview",
-    "Etobicoke"
-   ],
-   "lat": 43.691684,
-   "lng": -79.531999,
-   "phone": "(416) 243-8400",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/frank-vaccaro-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.691684,-79.531999&destination_place_id=ChIJkYjjtswwK4gRx3u3QDLuVzg",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ__8vdjo0K4gRCj8qUZZBDSY",
-   "name": "Co-operators - Garthside Group Financial Inc.",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "2440 Bloor St W Unit-2, Toronto, ON M6S 1P9",
-   "neighbourhood": "Runnymede-Bloor West Village",
-   "searchAreas": [
-    "Runnymede-Bloor West Village",
-    "Bloor West Village",
-    ""
-   ],
-   "lat": 43.649581,
-   "lng": -79.484384,
-   "phone": "(416) 604-4455",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/garthside-group-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.649581,-79.484384&destination_place_id=ChIJ__8vdjo0K4gRCj8qUZZBDSY",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJcWL4IXTT1IkRI1MvZ7K3o84",
-   "name": "Co-operators - Ge financial services Inc.",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "3790 Victoria Park Ave Unit 201, North York, ON M2H 3H7",
-   "neighbourhood": "Hillcrest Village",
-   "searchAreas": [
-    "Hillcrest Village",
-    "North York"
-   ],
-   "lat": 43.810969,
-   "lng": -79.339889,
-   "phone": "(416) 756-2888",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "http://www.cooperators.ca/local/linda-jun-ge?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.810969,-79.339889&destination_place_id=ChIJcWL4IXTT1IkRI1MvZ7K3o84",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJLUKimVnS1IkRESCx9DqdL5o",
-   "name": "Co-operators - Irene Sham Insurance Agency Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "2010 Sheppard Ave E, North York, ON M2J 3K7",
-   "neighbourhood": "Pleasant View",
-   "searchAreas": [
-    "Pleasant View",
-    "North York"
-   ],
-   "lat": 43.775635,
-   "lng": -79.331045,
-   "phone": "(416) 502-8800",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/irene-sham-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.775635,-79.331045&destination_place_id=ChIJLUKimVnS1IkRESCx9DqdL5o",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJHWdk3lwyK4gRsyJu2RcXwuY",
-   "name": "Co-operators - Kahai Insurance & Investments Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "333 Wilson Ave Unit 102, North York, ON M3H 1T2",
-   "neighbourhood": "Clanton Park",
-   "searchAreas": [
-    "Clanton Park",
-    "North York"
-   ],
-   "lat": 43.736827,
-   "lng": -79.435436,
-   "phone": "(416) 398-2667",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/kahai-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.736827,-79.435436&destination_place_id=ChIJHWdk3lwyK4gRsyJu2RcXwuY",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJs4Zcj6Q3K4gRBUqErXB9RTI",
-   "name": "Co-operators - Lola Macanowicz Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "5048 Dundas St W, Etobicoke, ON M9A 1B9",
-   "neighbourhood": "Islington",
-   "searchAreas": [
-    "Islington",
-    "Etobicoke"
-   ],
-   "lat": 43.646088,
-   "lng": -79.531521,
-   "phone": "(416) 234-2777",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/lola-macanowicz-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.646088,-79.531521&destination_place_id=ChIJs4Zcj6Q3K4gRBUqErXB9RTI",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJxfa8zLXS1IkREHTl8Pdinok",
-   "name": "Co-operators - Oscar Luo Financial Services Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "738 Sheppard Ave E Ste 204, North York, ON M2K 1C3",
-   "neighbourhood": "Bayview Village",
-   "searchAreas": [
-    "Bayview Village",
-    "North York"
-   ],
-   "lat": 43.769892,
-   "lng": -79.375863,
-   "phone": "(416) 250-8815",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/oscar-luo-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.769892,-79.375863&destination_place_id=ChIJxfa8zLXS1IkREHTl8Pdinok",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJpbVEhFbO1IkRVSjIX4-AaOw",
-   "name": "Co-operators - RJB Insurance Group Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "149 E Liberty St Ste 282, Toronto, ON M6K 0H7",
-   "neighbourhood": "Fort York-Liberty Village",
-   "searchAreas": [
-    "Fort York-Liberty Village",
-    "Liberty Village",
-    ""
-   ],
-   "lat": 43.638454,
-   "lng": -79.41712,
-   "phone": "(416) 264-2281",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/rjb-insurance-group/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.638454,-79.41712&destination_place_id=ChIJpbVEhFbO1IkRVSjIX4-AaOw",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJE83AM481K4gRGbYXc-DzVkA",
-   "name": "Co-operators - RJB Insurance Group Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "80 Scollard St Suite 203, Toronto, ON M5R 1G2",
-   "neighbourhood": "Annex",
-   "searchAreas": [
-    "Annex",
-    "The Annex",
-    ""
-   ],
-   "lat": 43.672096,
-   "lng": -79.391363,
-   "phone": "(416) 264-2281",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/rjb-insurance-group/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.672096,-79.391363&destination_place_id=ChIJE83AM481K4gRGbYXc-DzVkA",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJK6iliq43K4gRvyFC_hQIvJ0",
-   "name": "Co-operators - Richelle Lynk Insurance Services Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "781 The Queensway Unit E, Etobicoke, ON M8Z 6A8",
-   "neighbourhood": "Stonegate-Queensway",
-   "searchAreas": [
-    "Stonegate-Queensway",
-    "Etobicoke"
-   ],
-   "lat": 43.625275,
-   "lng": -79.505622,
-   "phone": "(416) 234-2794",
-   "hours": [],
-   "website": "https://www.cooperators.ca/local/richelle-lynk-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.625275,-79.505622&destination_place_id=ChIJK6iliq43K4gRvyFC_hQIvJ0",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJX6xptmA3K4gRyaUmgwahxlE",
-   "name": "Co-operators - Rita Tejpal Insurance Agency Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "201 Lloyd Manor Rd Unit 202, Etobicoke, ON M9B 6H6",
+   "id": "ChIJW1WKV2I2K4gR9bqs1cJ9NFQ",
+   "name": "Ukrainian Co-op Nursery School of Toronto",
+   "category": "Childcare",
+   "note": "",
+   "address": "516 The Kingsway, Etobicoke, ON M9A 3W6",
    "neighbourhood": "Princess-Rosethorn",
    "searchAreas": [
     "Princess-Rosethorn",
     "Etobicoke"
    ],
-   "lat": 43.67519,
-   "lng": -79.555494,
-   "phone": "(416) 236-3372",
+   "lat": 43.673432,
+   "lng": -79.548095,
+   "phone": "(416) 763-2922",
    "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
     "Saturday: Closed",
     "Sunday: Closed"
    ],
-   "website": "https://www.cooperators.ca/local/rita-tejpal-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.67519,-79.555494&destination_place_id=ChIJX6xptmA3K4gRyaUmgwahxlE",
+   "website": "https://www.svitlychka.ca/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.673432,-79.548095&destination_place_id=ChIJW1WKV2I2K4gR9bqs1cJ9NFQ",
    "lastChecked": "2026-10-23"
   },
   {
-   "id": "ChIJ1fG3IFza1IkRPXwxG36Cyro",
-   "name": "Co-operators - SL Block & Associates Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "91 Rylander Blvd Unit 209, Scarborough, ON M1B 5M5",
-   "neighbourhood": "West Rouge",
-   "searchAreas": [
-    "West Rouge",
-    "Scarborough"
-   ],
-   "lat": 43.796974,
-   "lng": -79.151688,
-   "phone": "(416) 724-7277",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/sl-block-associiates/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.796974,-79.151688&destination_place_id=ChIJ1fG3IFza1IkRPXwxG36Cyro",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJwRv58ictK4gRB0r3M6VCXfQ",
-   "name": "Co-operators - Sandy Chen Financial Inc.",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "3333 Bayview Ave #202, North York, ON M2K 2Y5",
-   "neighbourhood": "Bayview Woods-Steeles",
-   "searchAreas": [
-    "Bayview Woods-Steeles",
-    "North York"
-   ],
-   "lat": 43.791855,
-   "lng": -79.392849,
-   "phone": "(416) 512-8585",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/sandy-chen-financial/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.791855,-79.392849&destination_place_id=ChIJwRv58ictK4gRB0r3M6VCXfQ",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ1SLcEX0xK4gRyKC4HniDO9Q",
-   "name": "Co-operators - Torrejon Financial Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "2355 Keele St Unit 5D, North York, ON M6M 4A2",
-   "neighbourhood": "Brookhaven-Amesbury",
-   "searchAreas": [
-    "Brookhaven-Amesbury",
-    "North York"
-   ],
-   "lat": 43.70767,
-   "lng": -79.476273,
-   "phone": "(416) 249-9764",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/leticia-torrejon/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.70767,-79.476273&destination_place_id=ChIJ1SLcEX0xK4gRyKC4HniDO9Q",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJU1tZ_wfa1IkRK4RHwmNbKDc",
-   "name": "Co-operators - Vel Insurance Services Inc",
-   "category": "Insurance",
-   "note": "Independent agent selling Co-operators insurance (a co-op insurer)",
-   "address": "10 Milner Business Ct Unit 708, Scarborough, ON M1B 3C6",
-   "neighbourhood": "Malvern East",
-   "searchAreas": [
-    "Malvern East",
-    "Scarborough"
-   ],
-   "lat": 43.788671,
-   "lng": -79.235687,
-   "phone": "(416) 396-0707",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
-    "Sunday: Closed"
-   ],
-   "website": "https://www.cooperators.ca/local/vel-insurance/?utm_source=google&utm_medium=lpm&utm_campaign=co-operators",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.788671,-79.235687&destination_place_id=ChIJU1tZ_wfa1IkRK4RHwmNbKDc",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJUS7uLADT1IkRXasOxQ-YCoU",
-   "name": "Co-operators Claims Office",
-   "category": "Insurance",
+   "id": "ChIJWaGeAyw2K4gRi3EPfTF3RDQ",
+   "name": "Ukrainian Credit Union",
+   "category": "Banking",
    "note": "",
-   "address": "155 Gordon Baker Rd, North York, ON M2H 3N5",
-   "neighbourhood": "Hillcrest Village",
+   "address": "145 Evans Ave., Etobicoke, ON M8Z 5X8",
+   "neighbourhood": "Mimico-Queensway",
    "searchAreas": [
-    "Hillcrest Village",
-    "North York"
+    "Mimico-Queensway",
+    "Mimico",
+    "Etobicoke"
    ],
-   "lat": 43.80444,
-   "lng": -79.343915,
-   "phone": "",
-   "hours": [],
-   "website": "https://www.cooperators.ca/en/contact-us",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.80444,-79.343915&destination_place_id=ChIJUS7uLADT1IkRXasOxQ-YCoU",
+   "lat": 43.618315,
+   "lng": -79.509619,
+   "phone": "(416) 922-2797",
+   "hours": [
+    "Monday: 9:00 AM – 4:30 PM",
+    "Tuesday: 9:00 AM – 4:30 PM",
+    "Wednesday: 9:00 AM – 4:30 PM",
+    "Thursday: 9:00 AM – 4:30 PM",
+    "Friday: 9:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.ukrainiancu.com/",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.618315,-79.509619&destination_place_id=ChIJWaGeAyw2K4gRi3EPfTF3RDQ",
    "lastChecked": "2026-10-23"
   },
   {
-   "id": "ChIJ0_Sn13DL1IkRPW5dSsaP2qA",
-   "name": "Neill-Wycik Co-operative College",
-   "category": "Places to Stay",
+   "id": "ChIJwTLwGYg2K4gRklrgm_GYTbs",
+   "name": "Ukrainian Credit Union - Bloor West",
+   "category": "Banking",
    "note": "",
-   "address": "96 Gerrard St E, Toronto, ON M5B 1G7",
-   "neighbourhood": "Downtown Yonge East",
+   "address": "2397 Bloor St W, Toronto, ON M6S 1P6",
+   "neighbourhood": "High Park-Swansea",
    "searchAreas": [
-    "Downtown Yonge East",
-    "Downtown",
+    "High Park-Swansea",
+    "High Park",
+    "Swansea",
     ""
    ],
-   "lat": 43.660291,
-   "lng": -79.377353,
-   "phone": "(416) 430-6954",
-   "hours": [],
-   "website": "http://neill-wycik.coop/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.660291,-79.377353&destination_place_id=ChIJ0_Sn13DL1IkRPW5dSsaP2qA",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJ99I2Kuc0K4gRaVuCrNFeYnc",
-   "name": "Come As You Are",
-   "category": "Shops",
-   "note": "",
-   "address": "464 College St, Toronto, ON M6G 1A1",
-   "neighbourhood": "Kensington-Chinatown",
-   "searchAreas": [
-    "Kensington-Chinatown",
-    "Kensington Market",
-    "Chinatown",
-    "Downtown",
-    ""
-   ],
-   "lat": 43.655775,
-   "lng": -79.402754,
-   "phone": "(416) 504-7934",
+   "lat": 43.64952,
+   "lng": -79.482666,
+   "phone": "(416) 762-6961",
    "hours": [
-    "Monday: Closed",
-    "Tuesday: 12:00 – 7:00 PM",
-    "Wednesday: 12:00 – 7:00 PM",
-    "Thursday: 12:00 – 7:00 PM",
-    "Friday: 12:00 – 7:00 PM",
-    "Saturday: 12:00 – 7:00 PM",
-    "Sunday: 12:00 – 6:00 PM"
-   ],
-   "website": "https://www.comeasyouare.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.655775,-79.402754&destination_place_id=ChIJ99I2Kuc0K4gRaVuCrNFeYnc",
-   "lastChecked": "2026-10-23"
-  },
-  {
-   "id": "ChIJdx4fUQwvK4gR2R1ju9YC4YY",
-   "name": "Green Campus Co-operative",
-   "category": "Shops",
-   "note": "",
-   "address": "4700 Keele St North Ross 142, North York, ON M3J 1P3",
-   "neighbourhood": "York University Heights",
-   "searchAreas": [
-    "York University Heights",
-    "North York"
-   ],
-   "lat": 43.77165,
-   "lng": -79.501321,
-   "phone": "(647) 993-5054",
-   "hours": [
-    "Monday: 9:00 AM – 5:00 PM",
-    "Tuesday: 9:00 AM – 5:00 PM",
-    "Wednesday: 9:00 AM – 5:00 PM",
-    "Thursday: 9:00 AM – 5:00 PM",
-    "Friday: 9:00 AM – 5:00 PM",
-    "Saturday: Closed",
+    "Monday: 9:30 AM – 5:00 PM",
+    "Tuesday: 9:30 AM – 5:00 PM",
+    "Wednesday: 9:30 AM – 5:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 1:00 PM",
     "Sunday: Closed"
    ],
-   "website": "https://www.greencampus.coop/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.77165,-79.501321&destination_place_id=ChIJdx4fUQwvK4gR2R1ju9YC4YY",
+   "website": "https://www.ukrainiancu.com",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.64952,-79.482666&destination_place_id=ChIJwTLwGYg2K4gRklrgm_GYTbs",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJe7As3PM3K4gR1DrBFoNSrY0",
+   "name": "Ukrainian Credit Union - Etobicoke",
+   "category": "Banking",
+   "note": "",
+   "address": "225 The East Mall, Etobicoke, ON M9B 0A9",
+   "neighbourhood": "Etobicoke City Centre",
+   "searchAreas": [
+    "Etobicoke City Centre",
+    "Etobicoke"
+   ],
+   "lat": 43.632374,
+   "lng": -79.552548,
+   "phone": "(416) 233-1254",
+   "hours": [
+    "Monday: 9:30 AM – 5:00 PM",
+    "Tuesday: 9:30 AM – 5:00 PM",
+    "Wednesday: 9:30 AM – 5:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 1:00 PM",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.ukrainiancu.com",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.632374,-79.552548&destination_place_id=ChIJe7As3PM3K4gR1DrBFoNSrY0",
    "lastChecked": "2026-10-23"
   },
   {
@@ -3578,6 +3550,34 @@
    ],
    "website": "https://www.ucycle.com/",
    "directions": "https://www.google.com/maps/dir/?api=1&destination=43.649451,-79.430456&destination_place_id=ChIJ4eAyaSExK4gR1O1_tv_vDqU",
+   "lastChecked": "2026-10-23"
+  },
+  {
+   "id": "ChIJU6csAJQ0K4gRtCt3NA7q4zE",
+   "name": "Wiener's Home Hardware",
+   "category": "Home & Hardware",
+   "note": "Locally owned store; Home Hardware is a co-op owned by its dealers",
+   "address": "432 Bloor St W, Toronto, ON M5S 1X5",
+   "neighbourhood": "Annex",
+   "searchAreas": [
+    "Annex",
+    "The Annex",
+    ""
+   ],
+   "lat": 43.665912,
+   "lng": -79.408404,
+   "phone": "(416) 922-7043",
+   "hours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+   ],
+   "website": "https://www.homehardware.ca/en/store/12691?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=12691",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.665912,-79.408404&destination_place_id=ChIJU6csAJQ0K4gRtCt3NA7q4zE",
    "lastChecked": "2026-10-23"
   }
  ]
