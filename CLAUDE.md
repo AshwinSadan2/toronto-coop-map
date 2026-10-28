@@ -1,5 +1,7 @@
 # Toronto Co-op Map — build rules
 
+**At the start of every session, read `handoff.md` first.** History: `sessions/`, choices made: `decisions.md`.
+
 The spec is `plan.md` (diagram: `diagram.html`). The design interview is finished; its instructions are kept in `docs/` for reference only.
 
 ## Folders
@@ -18,11 +20,13 @@ The spec is `plan.md` (diagram: `diagram.html`). The design interview is finishe
 - Google is used only at build time, never on the public site.
 - Publish stops if the co-op count drops more than ~10%.
 - Keys live in `.env` (never committed, never printed).
+- Notion is the source of truth now. Update the site with `builder/publish.py`, never `export_site.py` (that rebuilds from the CSV and would wipe Notion edits).
+- Mistake: Claude's chat Notion connector is in the **Northern Loop** workspace; the project's own connection ("Co Op Map") is in **Ashwin's Notion**. Never create project pages with the chat connector; make them through the script's key.
 
 ## Milestones
 1. [x] Project setup + starting list from the PDF
 2. [x] Add co-ops from extra sources + chain branches (`builder/pull_sources.py`)
 3. [x] Google check: hours, phone, open/closed, chain branches (`builder/lookup_google.py` -> `data/build/coops_checked.csv`). Approve odd matches in `data/seed/review_overrides.csv`
 4. [x] Notion database + preview/approve write (`builder/notion_sync.py`; `--preview` writes nothing). Database "Co-op list" inside the one page the connection "Co Op Map" can see (workspace: Ashwin's Notion). Untick "Show on site" to hide a co-op
-5. [x] Website in `site/` (map, search, filters, street-sign cards). Data: `builder/export_site.py` -> `site/data/coops.json` (temporary until Notion publish). Preview: `cd site && python3 -m http.server 8765`
-6. [ ] Publish step + free hosting link
+5. [x] Website in `site/` (map, search, filters, street-sign cards). Data: `builder/publish.py` (Notion -> `site/data/coops.json`). Preview: `cd site && python3 -m http.server 8765`
+6. [~] Publish step done (`builder/publish.py`). Hosting not yet: Vercel (free Hobby, team `ashwinsadananthan-1850`) needs the user to connect GitHub under Login Connections; then create project from repo `AshwinSadan2/toronto-coop-map`, root directory `site`
