@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-28",
  "coops": [
   {
    "id": "ChIJN5-0tF8xK4gRU6tXHD35pjE",
@@ -1275,16 +1275,15 @@
    "category": "Shops",
    "note": "",
    "address": "464 College St, Toronto, ON M6G 1A1",
-   "neighbourhood": "Kensington-Chinatown",
+   "neighbourhood": "Palmerston-Little Italy",
    "searchAreas": [
-    "Kensington-Chinatown",
-    "Kensington Market",
-    "Chinatown",
-    "Downtown",
+    "Palmerston-Little Italy",
+    "Koreatown",
+    "Little Italy",
     ""
    ],
-   "lat": 43.655775,
-   "lng": -79.402754,
+   "lat": 43.656531,
+   "lng": -79.408667,
    "phone": "(416) 504-7934",
    "hours": [
     "Monday: Closed",
@@ -1296,7 +1295,7 @@
     "Sunday: 12:00 – 6:00 PM"
    ],
    "website": "https://www.comeasyouare.com/",
-   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.655775,-79.402754&destination_place_id=ChIJ99I2Kuc0K4gRaVuCrNFeYnc",
+   "directions": "https://www.google.com/maps/dir/?api=1&destination=43.656531,-79.408667&destination_place_id=ChIJ99I2Kuc0K4gRaVuCrNFeYnc",
    "lastChecked": "2026-10-23"
   },
   {
