@@ -133,6 +133,24 @@ function visibleCoops() {
 
 const map = L.map("map", { zoomControl: false }).setView(TORONTO.center, TORONTO.zoom);
 L.control.zoom({ position: "bottomright" }).addTo(map);
+// Round crosshair button above the zoom buttons; same job as "Near me"
+const LocateControl = L.Control.extend({
+  options: { position: "bottomright" },
+  onAdd() {
+    const btn = L.DomUtil.create("button", "locate leaflet-control");
+    btn.id = "locate";
+    btn.type = "button";
+    btn.title = "Show my location";
+    btn.setAttribute("aria-label", "Show my location");
+    btn.innerHTML = `<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="2.5" fill="currentColor" stroke="none"/>
+      <path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>`;
+    L.DomEvent.disableClickPropagation(btn);
+    L.DomEvent.on(btn, "click", () => askForLocation(true));
+    return btn;
+  },
+});
+new LocateControl().addTo(map);
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -292,14 +310,25 @@ function useLocation(pos, zoom = 14) {
   }).addTo(map);
   map.flyTo([pos.lat, pos.lng], zoom, { duration: 0.8 });
   $("near-me").setAttribute("aria-pressed", "true");
+  $("locate").setAttribute("aria-pressed", "true");
   render();
 }
 
 function askForLocation(explicit) {
-  if (!navigator.geolocation) return;
+  if (!navigator.geolocation) {
+    if (explicit) $("summary").textContent = "This browser can't share your location. Search an address instead.";
+    return;
+  }
+  $("locate").classList.add("is-locating");
   navigator.geolocation.getCurrentPosition(
-    (p) => useLocation({ lat: p.coords.latitude, lng: p.coords.longitude }),
-    () => { if (explicit) $("summary").textContent = "Your browser didn't share your location. Search an address instead."; },
+    (p) => {
+      $("locate").classList.remove("is-locating");
+      useLocation({ lat: p.coords.latitude, lng: p.coords.longitude });
+    },
+    () => {
+      $("locate").classList.remove("is-locating");
+      if (explicit) $("summary").textContent = "Your browser didn't share your location. Search an address instead.";
+    },
     { timeout: 8000, maximumAge: 600000 },
   );
 }
