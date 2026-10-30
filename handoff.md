@@ -2,7 +2,7 @@
 
 ## Where we are
 The co-op list (131 Toronto locations) is in Notion and on the website, which runs locally (`cd site && python3 -m http.server 8765`).
-The site is live at https://toronto-coop-map.vercel.app (Vercel account `ash-4456`). Update it with `builder/publish.py`, then the deploy command in CLAUDE.md.
+The site is live at https://toronto-coop-map.vercel.app (Vercel account `ash-4456`). Update it with `builder/publish.py`, then `sh builder/deploy.sh`.
 
 ## Last session did
 - 2026-10-26: wrote all 131 co-ops into the Notion "Co-op list" database (`builder/notion_sync.py`).
