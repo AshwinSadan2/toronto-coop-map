@@ -5,9 +5,9 @@
 The spec is `plan.md` (diagram: `diagram.html`). The design interview is finished; its instructions are kept in `docs/` for reference only.
 
 ## Folders
-- `sources/` — original source files (the OCA PDF)
+- `sources/` — original source files (the OCA PDF; local only, not on GitHub)
 - `data/seed/` — hand-checked lists (committed): PDF list, keep/leave-off decision per national-map co-op, hand-entered locations
-- `data/build/` — combined output: `coops.csv` (kept) and `left_off.csv` (with reasons)
+- `data/build/` — combined output: `coops.csv` (kept) and `left_off.csv` (with reasons). `coops_checked.csv` holds Google data and stays local only
 - `data/local/` — downloaded source copies (not committed)
 - `builder/` — Python scripts that build the list (run with `.venv/bin/python`)
 - `logs/run.log` — plain-English log of every run (not committed)
@@ -20,6 +20,8 @@ The spec is `plan.md` (diagram: `diagram.html`). The design interview is finishe
 - Google is used only at build time, never on the public site.
 - Publish stops if the co-op count drops more than ~10%.
 - Keys live in `.env` (never committed, never printed).
+- The GitHub repo is **public**. Never commit keys, the OCA PDF, or Google Places data (`coops_checked.csv`, `data/cache/`).
+- Each live-site deploy needs the user to say "deploy" first. Claude Code's safety check blocks production deploys without it, so ask before running `deploy.sh`.
 - Notion is the source of truth now. Update the site with `builder/publish.py`, never `export_site.py` (that rebuilds from the CSV and would wipe Notion edits).
 - Mistake: Claude's chat Notion connector is in the **Northern Loop** workspace; the project's own connection ("Co Op Map") is in **Ashwin's Notion**. Never create project pages with the chat connector; make them through the script's key.
 

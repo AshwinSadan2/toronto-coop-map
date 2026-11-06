@@ -1,23 +1,25 @@
 # Handoff
 
 ## Where we are
-The co-op list (131 Toronto locations) is in Notion and on the website, which runs locally (`cd site && python3 -m http.server 8765`).
-The site is live at https://toronto-coop-map.vercel.app (Vercel account `ash-4456`). Update it with `builder/publish.py`, then `sh builder/deploy.sh`.
+The site is live at https://toronto-coop-map.vercel.app with all 131 Toronto co-ops (Vercel account `ash-4456`). Notion's "Co-op list" is the source of truth.
+The GitHub repo is public. Only a few data questions are left.
 
 ## Last session did
-- 2026-10-26: wrote all 131 co-ops into the Notion "Co-op list" database (`builder/notion_sync.py`).
-- 2026-10-26: built `builder/publish.py`; output matches the old site data exactly.
-- 2026-10-26: deleted the stray Notion page in the Northern Loop workspace.
-- 2026-10-28: Come As You Are moved to 464 College St in Notion (pin + neighbourhood).
-- 2026-10-28: deployed the site from the Mac with a Vercel token (account `ash-4456`); all 131 co-ops live.
+- 2026-10-28: moved Come As You Are to 464 College St in Notion (pin + neighbourhood) and republished.
+- 2026-10-28: put the site online from the Mac with a Vercel token.
+- 2026-10-29: added a round "locate me" button on the map.
+- 2026-10-30: fixed a "Blocked" deploy by uploading a git-free copy; saved it as `builder/deploy.sh` (not yet run as a script).
+- 2026-11-06: made the repo public; the OCA PDF and `data/build/coops_checked.csv` are now local only.
 
 ## Next session does
-1. Go through the open questions below with the user, fix them in Notion, publish, then deploy.
+1. Ask the user the three open questions below.
+2. Fix the answers in Notion (through the project's key, never the chat connector).
+3. Run `builder/publish.py`, then ask "deploy?" and run `sh builder/deploy.sh`. Check the public link.
 
 ## Waiting on
 - **User decisions:**
-  - Finnish Credit Union vs "OP Credit Union".
-  - Show the 15 childcare co-ops or not (plan.md says 19; check the real number).
-  - Google's storage terms for hours and phone numbers.
+  - Finnish Credit Union vs "OP Credit Union": which name on the site?
+  - Show the 15 childcare co-ops or not?
+  - Google's storage rules for hours and phone numbers.
 
-*Last updated: 2026-10-28*
+*Last updated: 2026-11-06*

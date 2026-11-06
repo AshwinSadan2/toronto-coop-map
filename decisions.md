@@ -24,9 +24,21 @@
 - Why: keeps the row and its history; publish leaves it off the site.
 - What we didn't pick: deleting rows (the builder would add them back on its next run).
 
-## 2026-10-26: Host on Vercel (free plan), building from GitHub with `site/` as the root
+## 2026-10-26: Host on Vercel (free plan), building from GitHub with `site/` as the root (replaced 2026-10-28, see below)
 - Why: free, and updates go live automatically on each push.
 - What we didn't pick: uploading files by hand (each update is manual), or GitHub Pages (works, but the plan chose Vercel).
+
+## 2026-10-28: Come As You Are moved to Google's address (464 College St)
+- Why: Google showed it 483 m from the old listing (254 Augusta Ave) and still open; the user confirmed.
+- What we didn't pick: keeping the old address from the national co-op map, which looks out of date.
+
+## 2026-10-28: Host on Vercel account `ash-4456`, deployed from the Mac with a token (`builder/deploy.sh`)
+- Why: building from GitHub was blocked (no GitHub login connection in Vercel), and the token the user made belongs to `ash-4456`. Deploy uploads a git-free copy because Vercel blocks unknown commit authors.
+- What we didn't pick: the `ashwinsadananthan-1850` account (would need a new token; recommended for one-place tidiness, user chose speed), or building from GitHub (pushes would auto-update, but the login connection wasn't set up).
+
+## 2026-10-29: Add a round locate button in the map corner, keep "Near me"
+- Why: people look for the crosshair on the map itself, like Google Maps.
+- What we didn't pick: moving "Near me" out of the search bar (it's still useful next to search).
 
 ## 2026-11-06: Repo made public; OCA PDF and Google data file kept local only
 - Why: portfolio piece. A history scan found no keys. The OCA booklet is not ours to share, and Google limits storing and re-sharing Places data (`data/build/coops_checked.csv`).
