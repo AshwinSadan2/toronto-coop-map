@@ -27,3 +27,7 @@
 ## 2026-10-26: Host on Vercel (free plan), building from GitHub with `site/` as the root
 - Why: free, and updates go live automatically on each push.
 - What we didn't pick: uploading files by hand (each update is manual), or GitHub Pages (works, but the plan chose Vercel).
+
+## 2026-11-06: Repo made public; OCA PDF and Google data file kept local only
+- Why: portfolio piece. A history scan found no keys. The OCA booklet is not ours to share, and Google limits storing and re-sharing Places data (`data/build/coops_checked.csv`).
+- What we didn't pick: rewriting history to remove older copies (low risk: the booklet is free and the same details are on the live site).
