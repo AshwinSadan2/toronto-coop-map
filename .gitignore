@@ -19,3 +19,7 @@ __pycache__/
 .DS_Store
 node_modules/
 .vercel/
+
+# Not ours to share publicly: OCA booklet, and Google Places data (Google limits storing and re-sharing it)
+sources/*.pdf
+data/build/coops_checked.csv
